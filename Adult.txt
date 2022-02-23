@@ -259,9 +259,11 @@
 0.0.0.0 nudepussy.live
 0.0.0.0 nutaku.net
 0.0.0.0 ohjav.com
+0.0.0.0 onlydolls.com
 0.0.0.0 opensharing.org
 0.0.0.0 owohho.com
 0.0.0.0 p.yaoihavenreborn.com
+0.0.0.0 p0rn.video
 0.0.0.0 panda.chaika.moe
 0.0.0.0 parnuxi.com
 0.0.0.0 peeing-outdoors.com
@@ -495,6 +497,7 @@
 0.0.0.0 www.mdpj.top
 0.0.0.0 www.metrophilasurgeons.org
 0.0.0.0 www.mmofreesex.games
+0.0.0.0 www.mul222.com
 0.0.0.0 www.muscle-girls.net
 0.0.0.0 www.musclemistress.com
 0.0.0.0 www.myminisexdoll.com
@@ -565,6 +568,7 @@
 0.0.0.0 xanimu.com
 0.0.0.0 xart.letfap.com
 0.0.0.0 xcomics.se
+0.0.0.0 xfantasy.su
 0.0.0.0 xhamster.desi # need to block the language too ru.xhamster.desi example
 0.0.0.0 xhwide2.com # there are probably more languages for this sites than the ones already in this list
 0.0.0.0 xlecx.one
