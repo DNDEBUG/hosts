@@ -1,5 +1,5 @@
-alivegore.com
-goredb.com
-herdeaths.net
-seegore.com
-usacrime.com
+0.0.0.0 alivegore.com
+0.0.0.0 goredb.com
+0.0.0.0 herdeaths.net
+0.0.0.0 seegore.com
+0.0.0.0 usacrime.com
