@@ -5,6 +5,15 @@
 0.0.0.0 1080p.av4.club
 0.0.0.0 17rub.ru
 0.0.0.0 18comic.org
+0.0.0.0 pokemon-porn.com
+0.0.0.0 dudethrill.com
+0.0.0.0 ponerpics.org
+0.0.0.0 rainbooru.org
+0.0.0.0 ponybooru.org
+0.0.0.0 twibooru.org
+0.0.0.0 manebooru.art
+0.0.0.0 derpibooru.org
+0.0.0.0 www.tophentaigallery.com
 0.0.0.0 24rolika.ru
 0.0.0.0 3dfutaporn.com
 0.0.0.0 3mag.net
