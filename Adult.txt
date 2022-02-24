@@ -7,6 +7,7 @@
 0.0.0.0 18comic.org
 0.0.0.0 pokemon-porn.com
 0.0.0.0 dudethrill.com
+0.0.0.0 jenvids.com
 0.0.0.0 ponerpics.org
 0.0.0.0 rainbooru.org
 0.0.0.0 ponybooru.org
