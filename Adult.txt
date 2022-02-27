@@ -65,6 +65,7 @@
 0.0.0.0 booth.pm
 0.0.0.0 buzzboy.net
 0.0.0.0 captions.booru.org
+0.0.0.0 cartoongonzo.com
 0.0.0.0 cartoonporncomix.com
 0.0.0.0 cartoonregistry.com
 0.0.0.0 cartoontube69.com
@@ -175,6 +176,7 @@
 0.0.0.0 helltaker.booru.org
 0.0.0.0 henley.cloud-i-girl.com
 0.0.0.0 hentai-moon.com
+0.0.0.0 hentai-scenes.com
 0.0.0.0 hentai-zona.com
 0.0.0.0 hentai.desi
 0.0.0.0 hentai.xxx
@@ -418,6 +420,7 @@
 0.0.0.0 thebesthentai.com
 0.0.0.0 theowlhouse.booru.org
 0.0.0.0 thepornbin.com
+0.0.0.0 thepornlinks.com
 0.0.0.0 thesissyguide.com
 0.0.0.0 theyiffgallery.com
 0.0.0.0 toomics.com
@@ -502,6 +505,7 @@
 0.0.0.0 www.hentaipins.com
 0.0.0.0 www.hentairider.com
 0.0.0.0 www.hentairing.com
+0.0.0.0 www.hentaisexschool.com
 0.0.0.0 www.hentaisun.com
 0.0.0.0 www.hentaitorrents.com
 0.0.0.0 www.her-calves-muscle-legs.com
