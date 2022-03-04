@@ -1,3 +1,4 @@
+0.0.0.0 s3t3d2y7.ackcdn.net
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
