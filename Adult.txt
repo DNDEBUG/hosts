@@ -1,83 +1,19 @@
 0.0.0.0 0cili.com
 0.0.0.0 0magnet.com
-0.0.0.0 www.pornsocket.com
-0.0.0.0 www.bestialitysextaboo.com
-0.0.0.0 catcollection.org
-0.0.0.0 gallery.catcollection.org
-0.0.0.0 upload.catcollection.org
-0.0.0.0 game.catcollection.org
 0.0.0.0 1024ph.com
 0.0.0.0 1080p.av4.club
-0.0.0.0 loveporncomics.com
-0.0.0.0 thehentai.net
-0.0.0.0 en.thehentai.net
-0.0.0.0 pt.jerkmate.com
-0.0.0.0 hq-hentai.net
-0.0.0.0 videosdesexo.com.br
-0.0.0.0 xvideosbr.blog
-0.0.0.0 filmesporno.net.br
-0.0.0.0 pornobrasil.blog.br
-0.0.0.0 vipbook.com.br
-0.0.0.0 xvideosporno.blog
-0.0.0.0 xvidios.blog
-0.0.0.0 www.xvideosbrasileiro.net
-0.0.0.0 www.cameraproibida.com
-0.0.0.0 animeshentai.biz
-0.0.0.0 superhentai.blog
-0.0.0.0 quadrinhoseroticos.com.br
-0.0.0.0 xvideosporno.blog
-0.0.0.0 xvideosbr.blog
-0.0.0.0 incesto.blog.br
 0.0.0.0 17rub.ru
-0.0.0.0 www.sexovideos.blog.br
-0.0.0.0 buceta.blog
-0.0.0.0 videosdesexo.com.br
-0.0.0.0 www.quadrinhoseroticos.blog
-0.0.0.0 www.videosamadores.blog
-0.0.0.0 hentaii.net
-0.0.0.0 hentaiseason.com
-0.0.0.0 contosdesexo.net
-www.contoseroticos.co
-hentai-house-xt.com
-contosdesexo.net
-www.quadrinhoseroticos.co
-www.meuscontoseroticos.com
-www.lercontoseroticos.com
-www.pornogram.xxx
-https://www.meuscontoseroticos.com/
-https://www.contoseroticosbr.com/
-https://www.quadrinhoseroticos.co/
-https://www.filmesporno.com.br/
-www.xvideosporno.net
-www.quadrinhoseroticos.co
-www.xvideosporno.net
-hentaiseason.com
-www.hentaihome.net
-lapkjogos.com
-www.contoseroticos.co
-https://www.xvideosporno.net/
-https://www.meuscontoseroticos.com/
-https://www.contoseroticosbr.com/
-https://www.lercontoseroticos.com/
-https://www.quadrinhoseroticos.co/
-https://contosdesexo.net/
-https://hentaipornobr.com/
-https://hentai-house-xt.com/
-https://www.xvideosporno.net/
-https://www.filmesporno.com.br/
-https://www.pornobrasileiro.tv/
-https://www.flagrasamadores.net/
-https://www.xvideosbrasileiro.net/
-https://hentaipornobr.com/
 0.0.0.0 18comic.org
 0.0.0.0 24rolika.ru
 0.0.0.0 3dfutaporn.com
+0.0.0.0 3hentai.net
 0.0.0.0 3mag.net
 0.0.0.0 4edit.booru.org
 0.0.0.0 628701.site123.me
 0.0.0.0 69dsp.tv
 0.0.0.0 7mag.net
 0.0.0.0 91mh.co
+0.0.0.0 9hentai.to
 0.0.0.0 9mag.net
 0.0.0.0 a.xxxlibz.com
 0.0.0.0 ab.av4.club
@@ -98,9 +34,11 @@ https://hentaipornobr.com/
 0.0.0.0 andreauntamed.com
 0.0.0.0 animatedfemuscles.booru.org
 0.0.0.0 animehentaihub.com
+0.0.0.0 animeshentai.biz
 0.0.0.0 api-cdn.rule34.xxx # CDN for rule34.xxx
 0.0.0.0 asianpornwebsites.com
 0.0.0.0 asiantraps.com
+0.0.0.0 assistirxvideos.com
 0.0.0.0 av.av4.club
 0.0.0.0 av4.club
 0.0.0.0 aveliporn.com
@@ -129,12 +67,16 @@ https://hentaipornobr.com/
 0.0.0.0 booru.io
 0.0.0.0 booru.xxx
 0.0.0.0 booth.pm
+0.0.0.0 buceta.blog
+0.0.0.0 bucetas.blog
 0.0.0.0 buzzboy.net
 0.0.0.0 captions.booru.org
 0.0.0.0 cartoongonzo.com
 0.0.0.0 cartoonporncomix.com
+0.0.0.0 cartoonreality.com
 0.0.0.0 cartoonregistry.com
 0.0.0.0 cartoontube69.com
+0.0.0.0 catcollection.org
 0.0.0.0 celeraprime.booru.org
 0.0.0.0 chastitygurls.bdsmlr.com
 0.0.0.0 cityspirits.eu
@@ -155,6 +97,7 @@ https://hentaipornobr.com/
 0.0.0.0 comicsvalley.com
 0.0.0.0 comxmag.com
 0.0.0.0 content.bigasshoz.com
+0.0.0.0 contosdesexo.net
 0.0.0.0 coomer.party
 0.0.0.0 crazyporn.xxx
 0.0.0.0 cumanga.com
@@ -182,6 +125,7 @@ https://hentaipornobr.com/
 0.0.0.0 el124.com
 0.0.0.0 en.av4.club
 0.0.0.0 en.jpg4.biz
+0.0.0.0 en.thehentai.net
 0.0.0.0 equibooru.eu
 0.0.0.0 equibooru.gq
 0.0.0.0 equibooru.int.eu.org
@@ -207,8 +151,10 @@ https://hentaipornobr.com/
 0.0.0.0 faptitans.com
 0.0.0.0 fareastpornhub.com
 0.0.0.0 feetwonder.com
+0.0.0.0 filmesporno.net.br
 0.0.0.0 filmesporno.xxx
 0.0.0.0 findbare.com
+0.0.0.0 fotodepenis.com
 0.0.0.0 free-3d-porn.com
 0.0.0.0 freeadultcomix69.com
 0.0.0.0 freedomwings-project.eu
@@ -228,7 +174,10 @@ https://hentaipornobr.com/
 0.0.0.0 futanariasex.com
 0.0.0.0 futapo.com
 0.0.0.0 futureporn.net
+0.0.0.0 gallery.catcollection.org
+0.0.0.0 game.catcollection.org
 0.0.0.0 gamesofdesired.com
+0.0.0.0 gataviral.com
 0.0.0.0 gesek.net
 0.0.0.0 getcomixxx.com
 0.0.0.0 getmag.net
@@ -237,34 +186,49 @@ https://hentaipornobr.com/
 0.0.0.0 gidolik.ru
 0.0.0.0 globalcomix.blogspot.com
 0.0.0.0 gofucker.com
+0.0.0.0 gruposputaria.blog.br
 0.0.0.0 hairykitten.com
 0.0.0.0 hanime.xxx
 0.0.0.0 helltaker.booru.org
 0.0.0.0 henley.cloud-i-girl.com
+0.0.0.0 hentai-house-xt.com
 0.0.0.0 hentai-moon.com
 0.0.0.0 hentai-scenes.com
+0.0.0.0 hentai-zip.net
 0.0.0.0 hentai-zona.com
 0.0.0.0 hentai.desi
 0.0.0.0 hentai.xxx
 0.0.0.0 hentai34.com
 0.0.0.0 hentaicentro.com
 0.0.0.0 hentaicoins.com
+0.0.0.0 hentaicomics18.xyz
 0.0.0.0 hentaigifz.com
 0.0.0.0 hentaihorizon.com
+0.0.0.0 hentaii.net
+0.0.0.0 hentaikai.com
 0.0.0.0 hentaimania.me
+0.0.0.0 hentaimania.xyz
+0.0.0.0 hentaipornobr.com
 0.0.0.0 hentaiprn.com
 0.0.0.0 hentaireviews.moe
 0.0.0.0 hentairox.com
+0.0.0.0 hentais.blog
+0.0.0.0 hentaiseason.com
 0.0.0.0 hentaithai.com
+0.0.0.0 hentaitokyo.net
 0.0.0.0 hentaixuz.blogspot.com
 0.0.0.0 hentaixxxmanga.com
 0.0.0.0 hentaizilla.com
 0.0.0.0 hgoon.booru.org
 0.0.0.0 hiddenhomemade.com
+0.0.0.0 horahentai.net
 0.0.0.0 hornygrail.com
 0.0.0.0 hot2048.com
 0.0.0.0 hotcelebritiesandbabes.blogspot.com
 0.0.0.0 hotgta.com
+0.0.0.0 hq-hentai.net
+0.0.0.0 hqerotico.com
+0.0.0.0 hqhentai.online
 0.0.0.0 huaqun88.com
 0.0.0.0 hugetits.win
 0.0.0.0 hycgame8.xyz
@@ -276,6 +240,7 @@ https://hentaipornobr.com/
 0.0.0.0 img.jpg4.bi
 0.0.0.0 img.mizugi.pro
 0.0.0.0 imhentai.xxx
+0.0.0.0 incesto.blog.br
 0.0.0.0 inin17.bar
 0.0.0.0 iwara.tv
 0.0.0.0 ja.hentai-img.com
@@ -312,11 +277,14 @@ https://hentaipornobr.com/
 0.0.0.0 kurozenzen.github.io
 0.0.0.0 kusolove.bdsmlr.com
 0.0.0.0 landing.eritonetwork.com
+0.0.0.0 lapkjogos.com
 0.0.0.0 leakxxx.com
 0.0.0.0 ledaotv.com
 0.0.0.0 lewdzone.com
 0.0.0.0 lifeupskirt.com
+0.0.0.0 likkezg.com
 0.0.0.0 lm1.motherless.com
+0.0.0.0 loveporncomics.com
 0.0.0.0 lp1.sexyemulator.com
 0.0.0.0 lp2.sexyemulator.com
 0.0.0.0 lp3.sexyemulator.com
@@ -332,6 +300,7 @@ https://hentaipornobr.com/
 0.0.0.0 megaboobsgirls.com
 0.0.0.0 megainterracialcomics.com
 0.0.0.0 members.hentai.xxx
+0.0.0.0 meuhentai.com
 0.0.0.0 mhentai.net
 0.0.0.0 midobooru.midov.pl
 0.0.0.0 midov.pl
@@ -341,8 +310,12 @@ https://hentaipornobr.com/
 0.0.0.0 mmda.booru.org
 0.0.0.0 moeimg.net
 0.0.0.0 mp3.youtube4download.space
+0.0.0.0 mulherpelada.blog
+0.0.0.0 mundohentai.net
+0.0.0.0 mundohentaioficial.com
 0.0.0.0 mvfc22.com
 0.0.0.0 mypornads.com
+0.0.0.0 negocioadulto.com
 0.0.0.0 nhentai.io
 0.0.0.0 niadd.com
 0.0.0.0 novagirl.net
@@ -382,8 +355,12 @@ https://hentaipornobr.com/
 0.0.0.0 porngeek.com
 0.0.0.0 porngifs.xxx
 0.0.0.0 pornleech.ch
+0.0.0.0 pornobrasil.blog.br
+0.0.0.0 pornocaseiro.vlog.br
 0.0.0.0 pornocomics.net
 0.0.0.0 pornogifs.net
+0.0.0.0 pornogratis.vip
+0.0.0.0 pornomaneiro.com.br
 0.0.0.0 pornoslab.com
 0.0.0.0 pornosok.ru
 0.0.0.0 pornotorrent.eu
@@ -394,10 +371,12 @@ https://hentaipornobr.com/
 0.0.0.0 pornrips.to
 0.0.0.0 prettyanalsex.bdsmlr.com
 0.0.0.0 prettyfemme.bdsmlr.com
+0.0.0.0 pt.jerkmate.com
 0.0.0.0 pt.xhwide2.com
 0.0.0.0 public-sex-porn.com
 0.0.0.0 pururin.to
 0.0.0.0 pusooy.net
+0.0.0.0 quadrinhoseroticos.com.br
 0.0.0.0 qualityadultaffiliates.com
 0.0.0.0 r18lu.com
 0.0.0.0 r34hub.com
@@ -434,6 +413,7 @@ https://hentaipornobr.com/
 0.0.0.0 sexgymnastics.com
 0.0.0.0 sexo.videomaniaco.com
 0.0.0.0 sexporncomics.com
+0.0.0.0 sexprime.xxx
 0.0.0.0 sextoy.com.br
 0.0.0.0 sexwall.me
 0.0.0.0 sexwhatelse.centerblog.net
@@ -473,17 +453,21 @@ https://hentaipornobr.com/
 0.0.0.0 static9.hentai-img.com
 0.0.0.0 subjav.tv
 0.0.0.0 subscribestar.adult
+0.0.0.0 superhentai.blog
+0.0.0.0 superhqdesexo.com
 0.0.0.0 svscomics.club
 0.0.0.0 svscomics.com
 0.0.0.0 sydneyrobertscd.bdsmlr.com
 0.0.0.0 tags.literotica.com
 0.0.0.0 tbib.org
 0.0.0.0 telegra.ph
+0.0.0.0 terceiroz.com
 0.0.0.0 th.av4.club
 0.0.0.0 th.hentai-img.com
 0.0.0.0 th.jpg4.biz
 0.0.0.0 thaiseaw.com
 0.0.0.0 thebesthentai.com
+0.0.0.0 thehentai.net
 0.0.0.0 theowlhouse.booru.org
 0.0.0.0 thepornbin.com
 0.0.0.0 thepornlinks.com
@@ -492,6 +476,8 @@ https://hentaipornobr.com/
 0.0.0.0 toomics.com
 0.0.0.0 toomuchgetwrecked.blogspot.com
 0.0.0.0 toonily.com
+0.0.0.0 toonsfuck.com
+0.0.0.0 topdebrasilia.com.br
 0.0.0.0 tophothere.blogspot.com
 0.0.0.0 tour.javhub.com
 0.0.0.0 townofsins.com
@@ -502,6 +488,7 @@ https://hentaipornobr.com/
 0.0.0.0 u18chan.com
 0.0.0.0 ulogin.ru
 0.0.0.0 uniondht.org # Uniondht shouldn't be trusted in any shape or form
+0.0.0.0 upload.catcollection.org
 0.0.0.0 ute.booru.org
 0.0.0.0 vdojkah.com
 0.0.0.0 verpornocomic.com
@@ -509,10 +496,13 @@ https://hentaipornobr.com/
 0.0.0.0 vibrolandia.com
 0.0.0.0 videomaniaco.com
 0.0.0.0 videomonstr.com
+0.0.0.0 videosdesexo.com.br
 0.0.0.0 vidyartplus.booru.org
 0.0.0.0 vintagedrawing.com
 0.0.0.0 vip-cam.xyz
 0.0.0.0 vip-zona.biz
+0.0.0.0 vip.pornbraze.com
+0.0.0.0 vipbook.com.br
 0.0.0.0 vjav.one
 0.0.0.0 vk.com
 0.0.0.0 vsco.co
@@ -526,6 +516,7 @@ https://hentaipornobr.com/
 0.0.0.0 worldporncomix.com
 0.0.0.0 wowbdsmart.com
 0.0.0.0 wowbdsmcomics.com
+0.0.0.0 ww1.3d-lotus.com # ad?
 0.0.0.0 ww1.javbabe.net
 0.0.0.0 www.3dxxxcomics.com
 0.0.0.0 www.adult-strip-games.com
@@ -538,18 +529,26 @@ https://hentaipornobr.com/
 0.0.0.0 www.assoass.com
 0.0.0.0 www.aziani.com
 0.0.0.0 www.belrose.eu
+0.0.0.0 www.bestialitysextaboo.com
 0.0.0.0 www.blogr.xxx
+0.0.0.0 www.cameraproibida.com
 0.0.0.0 www.carelessnaked.com
 0.0.0.0 www.classicpornscenes.com
 0.0.0.0 www.cluset.com
 0.0.0.0 www.comicsporn.xxx
+0.0.0.0 www.contoseroticos.co
+0.0.0.0 www.contoseroticosbr.com
 0.0.0.0 www.cuntempire.com
 0.0.0.0 www.dofantasy.com
 0.0.0.0 www.e336.site
 0.0.0.0 www.ehentaihip.com
 0.0.0.0 www.fairdolls.com
+0.0.0.0 www.filmesporno.com.br
 0.0.0.0 www.firstadultgames.com
+0.0.0.0 www.flagrasamadores.net
 0.0.0.0 www.forumzoone.org
+0.0.0.0 www.fotosmulherpelada.com
+0.0.0.0 www.fotosporno.blog
 0.0.0.0 www.free-strip-games.com
 0.0.0.0 www.freecomics.xxx
 0.0.0.0 www.freegamesexposed.com
@@ -557,20 +556,26 @@ https://hentaipornobr.com/
 0.0.0.0 www.furrybeachclub.com
 0.0.0.0 www.furryporn.tv
 0.0.0.0 www.galacticmonsterquest.com
+0.0.0.0 www.gatasclass.com
 0.0.0.0 www.gifgoo.com
 0.0.0.0 www.girlnude.link
 0.0.0.0 www.gold13.top
 0.0.0.0 www.greatnass.com
+0.0.0.0 www.gsexy.com.br
 0.0.0.0 www.hacg.cat
 0.0.0.0 www.hentai-gamer.com
 0.0.0.0 www.hentai-imperia.org
 0.0.0.0 www.hentai-tube.net
 0.0.0.0 www.hentai.xxx
+0.0.0.0 www.hentaibrasil.org
 0.0.0.0 www.hentaidiaries.com
+0.0.0.0 www.hentaihome.net
 0.0.0.0 www.hentaimovies.me
 0.0.0.0 www.hentaipins.com
+0.0.0.0 www.hentaiputa.com
 0.0.0.0 www.hentairider.com
 0.0.0.0 www.hentairing.com
+0.0.0.0 www.hentaiseason.com
 0.0.0.0 www.hentaisexschool.com
 0.0.0.0 www.hentaisun.com
 0.0.0.0 www.hentaitorrents.com
@@ -581,7 +586,10 @@ https://hentaipornobr.com/
 0.0.0.0 www.hornygamer.com
 0.0.0.0 www.hotincestart.com
 0.0.0.0 www.hotporncomics.com
+0.0.0.0 www.hqdesexo.com
+0.0.0.0 www.hqporno.net
 0.0.0.0 www.hydoll.com
+0.0.0.0 www.ilhadoprazer.com.br
 0.0.0.0 www.info-idates.com
 0.0.0.0 www.ironchefsworld.com # includes gore
 0.0.0.0 www.japanhd.xxx
@@ -597,7 +605,10 @@ https://hentaipornobr.com/
 0.0.0.0 www.kinkly.com
 0.0.0.0 www.ky04.app
 0.0.0.0 www.kzmlspq.cn
+0.0.0.0 www.lercontoseroticos.com
+0.0.0.0 www.ligadasnovinhas.com
 0.0.0.0 www.lilith-soft.com
+0.0.0.0 www.lindas.com.br
 0.0.0.0 www.lolicit.org
 0.0.0.0 www.lovedollparadise.com
 0.0.0.0 www.lovetoys.com.br
@@ -605,12 +616,14 @@ https://hentaipornobr.com/
 0.0.0.0 www.maturetube.com
 0.0.0.0 www.mdpj.top
 0.0.0.0 www.metrophilasurgeons.org
+0.0.0.0 www.meuscontoseroticos.com
 0.0.0.0 www.mmofreesex.games
 0.0.0.0 www.mul222.com
 0.0.0.0 www.muscle-girls.net
 0.0.0.0 www.musclemistress.com
 0.0.0.0 www.myminisexdoll.com
 0.0.0.0 www.nakedskins.com
+0.0.0.0 www.novinhas.tv
 0.0.0.0 www.npns.fr
 0.0.0.0 www.nutaku.net
 0.0.0.0 www.nutakuaffiliates.com
@@ -622,27 +635,39 @@ https://hentaipornobr.com/
 0.0.0.0 www.porncomics.com
 0.0.0.0 www.porncomixonline.net
 0.0.0.0 www.porndiscounts.com
+0.0.0.0 www.pornobengala.com
+0.0.0.0 www.pornobrasileiro.tv
+0.0.0.0 www.pornogram.xxx
+0.0.0.0 www.pornolandia.xxx
+0.0.0.0 www.pornoonline.com.br
 0.0.0.0 www.pornotorrent.eu
+0.0.0.0 www.pornsocket.com
 0.0.0.0 www.pov-house.com
 0.0.0.0 www.pstargif.com
 0.0.0.0 www.pstargif.net
 0.0.0.0 www.ptorrents.com
+0.0.0.0 www.quadrinhosdesexo.com
+0.0.0.0 www.quadrinhoseroticos.blog
+0.0.0.0 www.quadrinhoseroticos.co
 0.0.0.0 www.racyme.com
 0.0.0.0 www.redlightcenter.com
 0.0.0.0 www.rintor.net
 0.0.0.0 www.scateatingfemdom.com
+0.0.0.0 www.scortrio.com
 0.0.0.0 www.sexcartoontube.com
 0.0.0.0 www.sexdolls.com
 0.0.0.0 www.sexdollsoff.com
 0.0.0.0 www.sexemulator.com
 0.0.0.0 www.sexlikereal.com
 0.0.0.0 www.sexm.xxx
+0.0.0.0 www.sexovideos.blog.br
 0.0.0.0 www.sexsimulator.me
 0.0.0.0 www.sextoys.com
 0.0.0.0 www.sissify.com
 0.0.0.0 www.sissyhypno.com
 0.0.0.0 www.snailsreviews.com
 0.0.0.0 www.strip-poker.xxx
+0.0.0.0 www.superhq.net
 0.0.0.0 www.sweetlicious.net
 0.0.0.0 www.taylorswiftipsum.com
 0.0.0.0 www.tgtube.com
@@ -659,14 +684,19 @@ https://hentaipornobr.com/
 0.0.0.0 www.tumbex.com
 0.0.0.0 www.uloversdoll.com
 0.0.0.0 www.uplay-istrip.com
+0.0.0.0 www.videosamadores.blog
+0.0.0.0 www.videosporno.com.br
 0.0.0.0 www.videosporno.tv
 0.0.0.0 www.vintage-lingerie.com
 0.0.0.0 www.vintagenylons.net
 0.0.0.0 www.vintagetwat.com
 0.0.0.0 www.vintagia.net
+0.0.0.0 www.welcomix.com
 0.0.0.0 www.wnacg.com
 0.0.0.0 www.x-zine.de
 0.0.0.0 www.xcomics.se
+0.0.0.0 www.xvideosbrasileiro.net
+0.0.0.0 www.xvideosporno.net
 0.0.0.0 www.xxxcomics.me
 0.0.0.0 www.xxxcrowlimg.com
 0.0.0.0 www.xxxhentai.net
@@ -676,6 +706,7 @@ https://hentaipornobr.com/
 0.0.0.0 www.youngsexer.com
 0.0.0.0 www.yourdoll.com
 0.0.0.0 www.zoovilleforum.net
+0.0.0.0 www1.tia-tanaka.com
 0.0.0.0 www2.javdock.com # Yes www2
 0.0.0.0 www3.bestjavporn.com
 0.0.0.0 www4.javxxx.me
@@ -689,6 +720,13 @@ https://hentaipornobr.com/
 0.0.0.0 xhamster.desi # need to block the language too ru.xhamster.desi example
 0.0.0.0 xhwide2.com # there are probably more languages for this sites than the ones already in this list
 0.0.0.0 xlecx.one
+0.0.0.0 xvideo.vlog.br
+0.0.0.0 xvideosbr.blog
+0.0.0.0 xvideosbrasileiro.net
+0.0.0.0 xvideosfoda.com
+0.0.0.0 xvideosporno.blog
+0.0.0.0 xvideosporno.blog.br
+0.0.0.0 xvidios.blog
 0.0.0.0 xwebcams.net
 0.0.0.0 xxprime.com
 0.0.0.0 xxxgamer.net
