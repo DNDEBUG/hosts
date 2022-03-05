@@ -79,6 +79,7 @@
 0.0.0.0 catcollection.org
 0.0.0.0 celeraprime.booru.org
 0.0.0.0 chastitygurls.bdsmlr.com
+0.0.0.0 chinahentai.net
 0.0.0.0 cityspirits.eu
 0.0.0.0 cliniqueregain.com
 0.0.0.0 cloud-i-girl.com/
@@ -121,6 +122,7 @@
 0.0.0.0 dudethrill.com
 0.0.0.0 dydqxf.com
 0.0.0.0 dysp7.me
+0.0.0.0 ecchi-hentai.net
 0.0.0.0 ecchi.iwara.tv
 0.0.0.0 el124.com
 0.0.0.0 en.av4.club
@@ -137,6 +139,7 @@
 0.0.0.0 erogames.com
 0.0.0.0 eropix.net
 0.0.0.0 erotic-beauties.com
+0.0.0.0 es.3hentai.net
 0.0.0.0 es.av4.club
 0.0.0.0 es.hentai-img.com
 0.0.0.0 es.jpg4.biz
@@ -155,6 +158,7 @@
 0.0.0.0 filmesporno.xxx
 0.0.0.0 findbare.com
 0.0.0.0 fotodepenis.com
+0.0.0.0 fre.3hentai.net
 0.0.0.0 free-3d-porn.com
 0.0.0.0 freeadultcomix69.com
 0.0.0.0 freedomwings-project.eu
@@ -198,10 +202,12 @@
 0.0.0.0 hentai-zona.com
 0.0.0.0 hentai.desi
 0.0.0.0 hentai.xxx
+0.0.0.0 hentai2read.info
 0.0.0.0 hentai34.com
 0.0.0.0 hentaicentro.com
 0.0.0.0 hentaicoins.com
 0.0.0.0 hentaicomics18.xyz
+0.0.0.0 hentaidock.com
 0.0.0.0 hentaigifz.com
 0.0.0.0 hentaihorizon.com
 0.0.0.0 hentaii.net
@@ -314,9 +320,11 @@
 0.0.0.0 mundohentai.net
 0.0.0.0 mundohentaioficial.com
 0.0.0.0 mvfc22.com
+0.0.0.0 myhentai.info
 0.0.0.0 mypornads.com
 0.0.0.0 negocioadulto.com
 0.0.0.0 nhentai.io
+0.0.0.0 nhentai.xxx
 0.0.0.0 niadd.com
 0.0.0.0 novagirl.net
 0.0.0.0 nsfwimg.com
@@ -371,6 +379,7 @@
 0.0.0.0 pornrips.to
 0.0.0.0 prettyanalsex.bdsmlr.com
 0.0.0.0 prettyfemme.bdsmlr.com
+0.0.0.0 pt.3hentai.net
 0.0.0.0 pt.jerkmate.com
 0.0.0.0 pt.xhwide2.com
 0.0.0.0 public-sex-porn.com
@@ -566,6 +575,7 @@
 0.0.0.0 www.hentai-gamer.com
 0.0.0.0 www.hentai-imperia.org
 0.0.0.0 www.hentai-tube.net
+0.0.0.0 www.hentai.name
 0.0.0.0 www.hentai.xxx
 0.0.0.0 www.hentaibrasil.org
 0.0.0.0 www.hentaidiaries.com
