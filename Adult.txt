@@ -118,6 +118,7 @@
 0.0.0.0 dirtyleague.com
 0.0.0.0 ditnhe.xyz
 0.0.0.0 docs.hentai.xxx
+0.0.0.0 dsngsfm.blogspot.com
 0.0.0.0 doll-stuffing.booru.org
 0.0.0.0 doujin69.com
 0.0.0.0 dudethrill.com
