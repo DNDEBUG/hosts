@@ -228,6 +228,7 @@
 0.0.0.0 hentaizilla.com
 0.0.0.0 hgoon.booru.org
 0.0.0.0 hiddenhomemade.com
+0.0.0.0 hmoegirl.com
 0.0.0.0 horahentai.net
 0.0.0.0 hornygrail.com
 0.0.0.0 hot2048.com
