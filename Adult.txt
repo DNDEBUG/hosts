@@ -44,7 +44,6 @@
 0.0.0.0 adultcamchat.freeadultpornblogs.com
 0.0.0.0 adultcomicbook.net
 0.0.0.0 adultdc.com
-0.0.0.0 netvideogirls.com
 0.0.0.0 adultgames.games
 0.0.0.0 adultmagz.com
 0.0.0.0 adultnode.com
@@ -73,6 +72,7 @@
 0.0.0.0 anypornsites.com
 0.0.0.0 api-cdn.rule34.xxx # cdn for rule34.xxx
 0.0.0.0 ar.one.cam
+0.0.0.0 archive.wakarimasen.moe
 0.0.0.0 armovs.com
 0.0.0.0 artguyjoe.blogspot.co.uk
 0.0.0.0 asiannsfw.com
@@ -87,6 +87,7 @@
 0.0.0.0 av4.club
 0.0.0.0 aveliporn.com
 0.0.0.0 avlang.com
+0.0.0.0 ayase.wakarimasen.moe
 0.0.0.0 aziani.com
 0.0.0.0 b989.tv
 0.0.0.0 badfolder.com
@@ -211,6 +212,8 @@
 0.0.0.0 decameronx.com
 0.0.0.0 deepfake-porn.com
 0.0.0.0 derpibooru.org
+0.0.0.0 desu-usergeneratedcontent.xyz
+0.0.0.0 desuarchive.org
 0.0.0.0 detomasso.net
 0.0.0.0 diamondgirls.co.uk
 0.0.0.0 digiqueens.blogspot.fr
@@ -624,6 +627,7 @@
 0.0.0.0 neba3d.blogspot.com
 0.0.0.0 negocioadulto.com
 0.0.0.0 netcum.net
+0.0.0.0 netvideogirls.com
 0.0.0.0 new-york.bedpage.com
 0.0.0.0 news-porn.com
 0.0.0.0 nexis3d.blogspot.ca
@@ -943,6 +947,7 @@
 0.0.0.0 toplist18.com
 0.0.0.0 toppornsites.net
 0.0.0.0 toppornsites.porn
+0.0.0.0 torako.wakarimasen.moe
 0.0.0.0 toronto.xgirl.ca
 0.0.0.0 tour.javhub.com
 0.0.0.0 townofsins.com
@@ -992,6 +997,7 @@
 0.0.0.0 vsco.co
 0.0.0.0 w24llc.com
 0.0.0.0 waifu.booru.org
+0.0.0.0 wakarimasen.moe
 0.0.0.0 wapbold.escortsporn.com
 0.0.0.0 waskucity.com
 0.0.0.0 wcili.com
