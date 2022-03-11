@@ -2,9 +2,6 @@
 0.0.0.0 0magnet.com
 0.0.0.0 1024ph.com
 0.0.0.0 1080p.av4.club
-0.0.0.0 javpro.cc
-0.0.0.0 uncensoredhentai.xxx
-0.0.0.0 hentai.pro
 0.0.0.0 17rub.ru
 0.0.0.0 18comic.org
 0.0.0.0 24rolika.ru
@@ -73,6 +70,7 @@
 0.0.0.0 anotherpornhub.com
 0.0.0.0 antjacks-femalepossession-mindcontrol.blogspot.com
 0.0.0.0 anypornsites.com
+0.0.0.0 api-cdn.rule34.xxx # CDN for rule34.xxx
 0.0.0.0 api-cdn.rule34.xxx # cdn for rule34.xxx
 0.0.0.0 ar.one.cam
 0.0.0.0 archive.wakarimasen.moe
@@ -392,6 +390,7 @@
 0.0.0.0 hentai-zip.net
 0.0.0.0 hentai-zona.com
 0.0.0.0 hentai.desi
+0.0.0.0 hentai.pro
 0.0.0.0 hentai.xxx
 0.0.0.0 hentai2read.info
 0.0.0.0 hentai34.com
@@ -494,6 +493,7 @@
 0.0.0.0 javhdworld.com
 0.0.0.0 javhub.com
 0.0.0.0 javonline.watch
+0.0.0.0 javpro.cc
 0.0.0.0 javpub.me
 0.0.0.0 javshujin.com
 0.0.0.0 jennypoussinvip.com
@@ -967,7 +967,8 @@
 0.0.0.0 ulogin.ru
 0.0.0.0 ultimatesexvideos.com
 0.0.0.0 uncams.com
-0.0.0.0 uniondht.org # uniondht shouldn't be trusted in any shape or form
+0.0.0.0 uncensoredhentai.xxx
+0.0.0.0 uniondht.org # Uniondht shouldn't be trusted in any shape or form
 0.0.0.0 upload.catcollection.org
 0.0.0.0 ute.booru.org
 0.0.0.0 vaesark.blogspot.com
@@ -1020,7 +1021,7 @@
 0.0.0.0 ww1.chinababe.net
 0.0.0.0 ww1.javbabe.net
 0.0.0.0 www xvideos com
-0.0.0.0 www.24xxx.me/catlist
+0.0.0.0 www.24xxx.me
 0.0.0.0 www.3dlovedolls.com
 0.0.0.0 www.3dx-games.com
 0.0.0.0 www.3dxxxcomics.com
@@ -1331,7 +1332,7 @@
 0.0.0.0 www.zoovilleforum.net
 0.0.0.0 www.zweiporn.com
 0.0.0.0 www1.tia-tanaka.com
-0.0.0.0 www2.javdock.com # yes www2
+0.0.0.0 www2.javdock.com # Yes www2
 0.0.0.0 www3.bestjavporn.com
 0.0.0.0 www4.javxxx.me
 0.0.0.0 x-artvideo.net
