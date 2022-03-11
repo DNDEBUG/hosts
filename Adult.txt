@@ -2,6 +2,9 @@
 0.0.0.0 0magnet.com
 0.0.0.0 1024ph.com
 0.0.0.0 1080p.av4.club
+0.0.0.0 javpro.cc
+0.0.0.0 uncensoredhentai.xxx
+0.0.0.0 hentai.pro
 0.0.0.0 17rub.ru
 0.0.0.0 18comic.org
 0.0.0.0 24rolika.ru
