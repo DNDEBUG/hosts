@@ -11,4 +11,4 @@ gore.txt: Sites with gore material
 
 removed.txt: sites that don't work anymore, but might come back some day
 
-useless.txt: useless websites designed to waste time or are just useless and worthless
+useless.txt: Irrelevant websites or designed to be a waste of time
