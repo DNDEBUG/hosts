@@ -1,3 +1,4 @@
+
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 1024ph.com # OK
@@ -7,10 +8,15 @@
 0.0.0.0 18comic.org # OK
 0.0.0.0 24rolika.ru # OK
 0.0.0.0 3-d-c.com # OK
+0.0.0.0 3dcartoons.xyz # OK
 0.0.0.0 3deroticart.blogspot.com # OK
+0.0.0.0 3dfamilysex.xyz # OK
+0.0.0.0 3dfucking.net # OK
 0.0.0.0 3dfucking.xyz
 0.0.0.0 3dfutaporn.com # OK
-0.0.0.0 3dpornbomb.xyz
+0.0.0.0 3dporn.vip # OK
+0.0.0.0 3dpornbomb.xyz # OK
+0.0.0.0 3dpornxxx.com # OK
 0.0.0.0 3dreone.blogspot.com # OK
 0.0.0.0 3dx-abby-jayne-burns.blogspot.com # OK
 0.0.0.0 3dx-casey-reed.blogspot.com # OK
@@ -29,7 +35,7 @@
 0.0.0.0 69fuli.cc # OK
 0.0.0.0 69sex.chaturbate.com # OK
 0.0.0.0 7mag.net # OK
-0.0.0.0 8animal.com
+0.0.0.0 8animal.com # OK
 0.0.0.0 8zoo.net
 0.0.0.0 91mh.co
 0.0.0.0 91pornos.xyz
@@ -76,9 +82,14 @@
 0.0.0.0 andreauntamed.com
 0.0.0.0 animalporn.app
 0.0.0.0 animatedfemuscles.booru.org
+0.0.0.0 animaxxx.net
+0.0.0.0 anime-xxx-tube.com
+0.0.0.0 anime.php
+0.0.0.0 animecreampie.com
 0.0.0.0 animehentaihub.com
 0.0.0.0 animehentaivideo.com
 0.0.0.0 animeshentai.biz
+0.0.0.0 animetaboo.xyz
 0.0.0.0 animeteenxxx.com
 0.0.0.0 animexxx.xyz
 0.0.0.0 animexxxgames.com
@@ -392,6 +403,7 @@
 0.0.0.0 fsayadoujin.com
 0.0.0.0 fuck55.net
 0.0.0.0 fuckcomics.net
+0.0.0.0 fuckingfuck.net
 0.0.0.0 fuckmedaddycollective.com
 0.0.0.0 fullvoyeur.com
 0.0.0.0 fundorado.de
@@ -445,7 +457,9 @@
 0.0.0.0 hentai-foundry.com
 0.0.0.0 hentai-house-xt.com
 0.0.0.0 hentai-moon.com
+0.0.0.0 hentai-room.com
 0.0.0.0 hentai-scenes.com
+0.0.0.0 hentai-toonz.com
 0.0.0.0 hentai-zip.net
 0.0.0.0 hentai-zona.com
 0.0.0.0 hentai.desi
@@ -479,6 +493,7 @@
 0.0.0.0 hentais.blog
 0.0.0.0 hentaiseason.com
 0.0.0.0 hentaisexuality.com
+0.0.0.0 hentaispirit.com
 0.0.0.0 hentaithai.com
 0.0.0.0 hentaitokyo.net
 0.0.0.0 hentaitubevideos.com
@@ -646,6 +661,7 @@
 0.0.0.0 localxlist.org
 0.0.0.0 longyyy3deroticart.blogspot.com
 0.0.0.0 losangeles.bedpage.com
+0.0.0.0 lothentaiporn.com
 0.0.0.0 love-sextoys.co.uk
 0.0.0.0 love-xxx.com
 0.0.0.0 lovefap.com
@@ -714,12 +730,14 @@
 0.0.0.0 myfreeporngames.com
 0.0.0.0 mygfpussy.com
 0.0.0.0 myhentai.info
+0.0.0.0 myhentaivideo.com
 0.0.0.0 myhotbbw.com
 0.0.0.0 myminisexdoll.com
 0.0.0.0 mypornads.com
 0.0.0.0 mypornbookmarks.com
 0.0.0.0 mypornhere.com
 0.0.0.0 mytopporns.com
+0.0.0.0 myxnxx.pro
 0.0.0.0 n1toons.com
 0.0.0.0 nadiyaiko4.blogspot.com
 0.0.0.0 nakedgirls.cloud
@@ -821,6 +839,7 @@
 0.0.0.0 pornenix.com
 0.0.0.0 pornexpress.net
 0.0.0.0 pornfemboy.com
+0.0.0.0 pornfreeworld.com
 0.0.0.0 pornfromusa.com
 0.0.0.0 pornfrost.com
 0.0.0.0 porngames.com
@@ -1053,6 +1072,7 @@
 0.0.0.0 thebesthentai.com
 0.0.0.0 thecelebnude.com
 0.0.0.0 thehentai.net
+0.0.0.0 thehentaitube.com
 0.0.0.0 theknightshinesbright.blogspot.com
 0.0.0.0 theknightshinesbright.blogspot.nl
 0.0.0.0 theknightshinesbright.tumblr.com
@@ -1071,6 +1091,7 @@
 0.0.0.0 theyiffgallery.com
 0.0.0.0 toomics.com
 0.0.0.0 toomuchgetwrecked.blogspot.com
+0.0.0.0 toon-porn-tube.com
 0.0.0.0 toongallys.com
 0.0.0.0 toonily.com
 0.0.0.0 toonsfuck.com
@@ -1080,6 +1101,7 @@
 0.0.0.0 toplist18.com
 0.0.0.0 toppornsites.net
 0.0.0.0 toppornsites.porn
+0.0.0.0 toptoonporn.com
 0.0.0.0 torako.wakarimasen.moe
 0.0.0.0 toronto.xgirl.ca
 0.0.0.0 tour.javhub.com
@@ -1164,6 +1186,7 @@
 0.0.0.0 www xvideos com
 0.0.0.0 www.24xxx.me
 0.0.0.0 www.3dlovedolls.com
+0.0.0.0 www.3dpics.pro
 0.0.0.0 www.3dx-games.com
 0.0.0.0 www.3dxxxcomics.com
 0.0.0.0 www.91pornos.xyz
@@ -1177,8 +1200,11 @@
 0.0.0.0 www.adultpornoblogs.com
 0.0.0.0 www.adultwebmasters.org
 0.0.0.0 www.aiwucm5.cc
+0.0.0.0 www.alladultvideo.net
+0.0.0.0 www.allbrutaldrawings.com
 0.0.0.0 www.amateurporn.me
 0.0.0.0 www.andreauntamed.com
+0.0.0.0 www.animaxxx.net
 0.0.0.0 www.anime-tube.pw
 0.0.0.0 www.assoass.com
 0.0.0.0 www.aziani.com
@@ -1225,6 +1251,7 @@
 0.0.0.0 www.fairdolls.com
 0.0.0.0 www.femdom365.net
 0.0.0.0 www.filmesporno.com.br
+0.0.0.0 www.finestcartoonporn.com
 0.0.0.0 www.firstadultgames.com
 0.0.0.0 www.flagrasamadores.net
 0.0.0.0 www.floppy-tits.com
@@ -1260,6 +1287,7 @@
 0.0.0.0 www.hentaibrasil.org
 0.0.0.0 www.hentaidiaries.com
 0.0.0.0 www.hentaihome.net
+0.0.0.0 www.hentailust.net
 0.0.0.0 www.hentaimovieplanet.com
 0.0.0.0 www.hentaimovies.me
 0.0.0.0 www.hentaipins.com
@@ -1268,9 +1296,11 @@
 0.0.0.0 www.hentairing.com
 0.0.0.0 www.hentaiseason.com
 0.0.0.0 www.hentaisexschool.com
+0.0.0.0 www.hentaispirit.com
 0.0.0.0 www.hentaisun.com
 0.0.0.0 www.hentaitorrents.com
 0.0.0.0 www.hentaitubevideos.com
+0.0.0.0 www.hentaporn.net
 0.0.0.0 www.heo69.org
 0.0.0.0 www.her-calves-muscle-legs.com
 0.0.0.0 www.hibbli3d.com
@@ -1281,6 +1311,7 @@
 0.0.0.0 www.hornygamer.com
 0.0.0.0 www.hotincestart.com
 0.0.0.0 www.hotporncomics.com
+0.0.0.0 www.hotsexcomics.me
 0.0.0.0 www.hotshag.com
 0.0.0.0 www.hqdesexo.com
 0.0.0.0 www.hqporno.net
@@ -1319,6 +1350,7 @@
 0.0.0.0 www.liztube.com
 0.0.0.0 www.loasex.com
 0.0.0.0 www.lolicit.org
+0.0.0.0 www.lothentaiporn.com
 0.0.0.0 www.love-sextoys.co.uk
 0.0.0.0 www.lovedollparadise.com
 0.0.0.0 www.lovetoys.com.br
@@ -1342,6 +1374,7 @@
 0.0.0.0 www.mypornhere.com
 0.0.0.0 www.nakedskins.com
 0.0.0.0 www.netcum.net
+0.0.0.0 www.new3dcomics.com
 0.0.0.0 www.novinhas.tv
 0.0.0.0 www.npns.fr
 0.0.0.0 www.nudeblogz.com
@@ -1394,6 +1427,7 @@
 0.0.0.0 www.scortrio.com
 0.0.0.0 www.sex-ly.com
 0.0.0.0 www.sexblogzdir.com
+0.0.0.0 www.sexcartoon.pro
 0.0.0.0 www.sexcartoontube.com
 0.0.0.0 www.sexdolls.com
 0.0.0.0 www.sexdollsoff.com
@@ -1407,6 +1441,8 @@
 0.0.0.0 www.sexsi.cam
 0.0.0.0 www.sexsimulator.me
 0.0.0.0 www.sextoys.com
+0.0.0.0 www.sexualhentai.net
+0.0.0.0 www.sexy3dtoon.com
 0.0.0.0 www.sexyclipstv.com
 0.0.0.0 www.sexykittenporn.com
 0.0.0.0 www.sexyozi.com
@@ -1433,6 +1469,7 @@
 0.0.0.0 www.thrinder.top
 0.0.0.0 www.tinysexdolls.com
 0.0.0.0 www.tktube.com
+0.0.0.0 www.topadultcomix.com
 0.0.0.0 www.tophentaigallery.com
 0.0.0.0 www.toptencams.com
 0.0.0.0 www.trannylivecams.com
@@ -1441,6 +1478,7 @@
 0.0.0.0 www.tumbex.com
 0.0.0.0 www.twiceperson.com
 0.0.0.0 www.uloversdoll.com
+0.0.0.0 www.ultrasexcomics.com
 0.0.0.0 www.uplay-istrip.com
 0.0.0.0 www.valsharess.com
 0.0.0.0 www.videosamadores.blog
@@ -1528,6 +1566,7 @@
 0.0.0.0 xxcumz.com
 0.0.0.0 xxpornhd.com
 0.0.0.0 xxprime.com
+0.0.0.0 xxx-animatrix.com
 0.0.0.0 xxx-girls.pro
 0.0.0.0 xxx-tube-porno.com
 0.0.0.0 xxxartist.blogspot.com
