@@ -2,6 +2,18 @@
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 1024ph.com # OK
+0.0.0.0 www.mysextoyguide.com
+0.0.0.0 www.asmrlust.com
+0.0.0.0 soundgasm.net
+0.0.0.0 www.asmrxxx.com
+0.0.0.0 www.asmrwebcams.com
+0.0.0.0 www.asmrsex.com
+0.0.0.0 www.eroticasmr.com
+0.0.0.0 ladyexotic.com
+0.0.0.0 www.asmr.love
+0.0.0.0 audiodesires.com
+0.0.0.0 www.juicypeachaudioerotica.com
+0.0.0.0 www.asmrgirls.com
 0.0.0.0 1080p.av4.club # OK
 0.0.0.0 17rub.ru # OK
 0.0.0.0 18closeups.pro # OK
