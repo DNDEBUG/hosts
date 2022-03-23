@@ -2,6 +2,7 @@
 Hosts block lists
 
 Adult.txt: Sites with adult material, also include scam or fake adult sites
+Sites with **# OK** have been reviewed and confirmed to be working and have adult material
 
 over **2500 Adult sites reached**
 
