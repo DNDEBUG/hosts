@@ -44,21 +44,17 @@
 0.0.0.0 a.thefrappening.so
 0.0.0.0 a.xxxlibz.com # OK
 0.0.0.0 aaaninja.blogspot.com # OK
-0.0.0.0 ab.av4.club
-0.0.0.0 absolutesexdoll.com
-0.0.0.0 abyss3d.blogspot.co.uk
-0.0.0.0 abyss3d.blogspot.com
-0.0.0.0 adoujin.com
-0.0.0.0 adult-comics.1hentai.org
-0.0.0.0 adult-hot-games.life
-0.0.0.0 adult.hypnoticwishes.com
-0.0.0.0 adultcamchat.freeadultpornblogs.com
-0.0.0.0 adultcomicbook.net
-0.0.0.0 adultdc.com
-0.0.0.0 adultgames.games
-0.0.0.0 adultmagz.com
-0.0.0.0 adultnode.com
-0.0.0.0 adultpornblogz.com
+0.0.0.0 absolutesexdoll.com # OK
+0.0.0.0 abyss3d.blogspot.com # OK
+0.0.0.0 adoujin.com # OK
+0.0.0.0 adult-comics.1hentai.org # OK
+0.0.0.0 adult.hypnoticwishes.com # OK
+0.0.0.0 adultcamchat.freeadultpornblogs.com # OK
+0.0.0.0 adultdc.com # OK
+0.0.0.0 adultgames.games # OK
+0.0.0.0 adultmagz.com # OK
+0.0.0.0 adultnode.com # OK
+0.0.0.0 adultpornblogz.com # OK
 0.0.0.0 adultpornoblogs.com
 0.0.0.0 adulttoymegastore.com
 0.0.0.0 adultwebmasters.org
@@ -98,7 +94,6 @@
 0.0.0.0 antjacks-femalepossession-mindcontrol.blogspot.com
 0.0.0.0 anypornsites.com
 0.0.0.0 api-cdn.rule34.xxx # CDN for rule34.xxx
-0.0.0.0 api-cdn.rule34.xxx # cdn for rule34.xxx
 0.0.0.0 apps-finder.com
 0.0.0.0 ar.one.cam
 0.0.0.0 archive.wakarimasen.moe
@@ -584,7 +579,7 @@
 0.0.0.0 hunk.ws
 0.0.0.0 hycgame8.xyz
 0.0.0.0 hypnocypher.com
-0.0.0.0 hypnoticwishes.com
+0.0.0.0 hypnoticwishes.com # OK
 0.0.0.0 hypnotube.callabitch.org
 0.0.0.0 i-stripper.pro
 0.0.0.0 iality.best
