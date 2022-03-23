@@ -7,6 +7,7 @@
 0.0.0.0 18closeups.pro # OK
 0.0.0.0 18comic.org # OK
 0.0.0.0 18firstsex.blogspot.com # OK
+0.0.0.0 www.naughtymachinima.com
 0.0.0.0 1hentai.org # OK
 0.0.0.0 247cool.blogspot.com
 0.0.0.0 24rolika.ru # OK
