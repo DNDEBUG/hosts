@@ -3,6 +3,7 @@
 0.0.0.0 1024ph.com # OK
 0.0.0.0 1080p.av4.club # OK
 0.0.0.0 17rub.ru # OK
+0.0.0.0 thotsbay.com # OK
 0.0.0.0 18-year-old.net # OK
 0.0.0.0 18closeups.pro # OK
 0.0.0.0 18comic.org # OK
