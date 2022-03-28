@@ -7,6 +7,7 @@
 0.0.0.0 forum.thothub.vip
 0.0.0.0 www.junmeitu.com
 0.0.0.0 altenens.is
+0.0.0.0 www.ligui.com
 0.0.0.0 17rub.ru # OK
 0.0.0.0 thotsbay.com # OK
 0.0.0.0 18-year-old.net # OK
