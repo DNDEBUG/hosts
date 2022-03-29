@@ -3,6 +3,11 @@
 0.0.0.0 1024ph.com # OK
 0.0.0.0 www.westcoastbikini.com # OK
 0.0.0.0 www.pusatporn.net
+0.0.0.0 xenforo.be
+0.0.0.0 leakednudes.co
+0.0.0.0 degen.to
+0.0.0.0 influencersgonewild.com
+0.0.0.0 eternia.to
 0.0.0.0 1080p.av4.club # OK
 0.0.0.0 leakedbb.com
 0.0.0.0 forum.thothub.vip
