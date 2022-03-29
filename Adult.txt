@@ -2,6 +2,7 @@
 0.0.0.0 0magnet.com # OK
 0.0.0.0 1024ph.com # OK
 0.0.0.0 www.westcoastbikini.com # OK
+0.0.0.0 www.pusatporn.net
 0.0.0.0 1080p.av4.club # OK
 0.0.0.0 leakedbb.com
 0.0.0.0 forum.thothub.vip
