@@ -4,6 +4,28 @@
 0.0.0.0 100bigass.com # OK
 0.0.0.0 100boyself.com # OK
 0.0.0.0 100bucksbabes.com # OK
+0.0.0.0 www.t-i-g-h-t.com
+0.0.0.0 www.3d-sex.net
+0.0.0.0 megahq.info
+0.0.0.0 www.porn3d.pro
+0.0.0.0 www.datoons.com
+0.0.0.0 www.x3dxxx.com
+0.0.0.0 comics-hentai.in.net
+0.0.0.0 nudevision.club
+0.0.0.0 hentailegendado.com
+0.0.0.0 www.hentai3d.pro
+0.0.0.0 www.overwatchfuck.com
+0.0.0.0 www.xxxhentaicomix.club
+0.0.0.0 www.cartoonseximages.club
+0.0.0.0 www.xxxhentaigallery.com
+0.0.0.0 www.xxxhentaigallery.com
+0.0.0.0 erosharing.blogspot.com
+0.0.0.0 hqhentai.blog.br
+0.0.0.0 www.xxxcartoonsex.com
+0.0.0.0 www.hentaisexpics.com
+0.0.0.0 www.weasyl.com
+0.0.0.0 3dhentaitube.com
+0.0.0.0 secrethentai.club
 0.0.0.0 101boyvideos.com # OK
 0.0.0.0 101hotguys.chaturbate.com # OK
 0.0.0.0 101hotguys.com
