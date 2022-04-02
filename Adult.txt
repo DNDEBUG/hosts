@@ -4,7 +4,6 @@
 0.0.0.0 100boyself.com # OK
 0.0.0.0 100bucksbabes.com # OK
 0.0.0.0 100gayboyvideos.com
-0.0.0.0 101boyvideos.com
 0.0.0.0 101boyvideos.com # OK
 0.0.0.0 101hotguys.com
 0.0.0.0 1024ph.com # OK
@@ -22,25 +21,20 @@
 0.0.0.0 18gayteen.com
 0.0.0.0 18girls.ws
 0.0.0.0 18hornyboys.com
-0.0.0.0 18moviesonline.com
 0.0.0.0 18moviesonline.com # OK
 0.0.0.0 18nakedboys.com
 0.0.0.0 18teenboys.net
-0.0.0.0 18twink.com
 0.0.0.0 18twink.com # OK
 0.0.0.0 18twinkstube.com
 0.0.0.0 18younggays.com
 0.0.0.0 1boyz.com
 0.0.0.0 1hentai.org # OK
-0.0.0.0 1pornsites.com
 0.0.0.0 1pornsites.com # OK
 0.0.0.0 1teenporn.com
 0.0.0.0 21Sextury.com
 0.0.0.0 21naturals.com
 0.0.0.0 24gaytube.com
-0.0.0.0 24porn.pro
 0.0.0.0 24porn.pro # OK
-0.0.0.0 24porn.tv
 0.0.0.0 24porn.tv # OK
 0.0.0.0 24pornvideos.com
 0.0.0.0 24pornvids.com
@@ -80,7 +74,6 @@
 0.0.0.0 4boystube.com
 0.0.0.0 4crot.com # OK
 0.0.0.0 4k-vr.com # OK
-0.0.0.0 4ksex.me
 0.0.0.0 4ksex.me # OK
 0.0.0.0 5porno.pro # OK
 0.0.0.0 628701.site123.me # OK
@@ -104,20 +97,17 @@
 0.0.0.0 9hentai.to # OK
 0.0.0.0 9mag.net # OK
 0.0.0.0 FindomCenter.com # OK
-0.0.0.0 SiteStates.com
 0.0.0.0 a-hentai.tv # OK
 0.0.0.0 a-shemaletube.com
 0.0.0.0 a.thefrappening.so # OK
 0.0.0.0 a.xxxlibz.com # OK
 0.0.0.0 aaaninja.blogspot.com # OK
 0.0.0.0 abbiemaleyclub.blogspot.com # OK
-0.0.0.0 abellalist.com
 0.0.0.0 abellalist.com # OK
 0.0.0.0 aboutguyz.com
 0.0.0.0 aboutsexyteen.com
 0.0.0.0 absolutesexdoll.com # OK
 0.0.0.0 abyss3d.blogspot.com # OK
-0.0.0.0 actiongirls.com
 0.0.0.0 actiongirls.com # OK
 0.0.0.0 adoujin.com # OK
 0.0.0.0 adult-comics.1hentai.org # OK
@@ -455,7 +445,6 @@
 0.0.0.0 blueblood.com
 0.0.0.0 boarporn.com
 0.0.0.0 boatblowjob.blogspot.com
-0.0.0.0 bobbytally.com
 0.0.0.0 bobbytally.com # OK
 0.0.0.0 boivice.nibblebit.com
 0.0.0.0 bon=straight
@@ -471,11 +460,9 @@
 0.0.0.0 boobsrealm.com
 0.0.0.0 boobstudy.com
 0.0.0.0 bookitlab.tech
-0.0.0.0 booru.eu
 0.0.0.0 booru.eu # OK
 0.0.0.0 booru.foalcon.com # OK
 0.0.0.0 booru.io # OK
-0.0.0.0 booru.xxx
 0.0.0.0 booru.xxx # OK
 0.0.0.0 booth.pm
 0.0.0.0 boredjumbo.com
@@ -3322,17 +3309,14 @@
 0.0.0.0 www.aziani.com
 0.0.0.0 www.babecentrum.com
 0.0.0.0 www.babecollection.co.uk
-0.0.0.0 www.babeimpact.com
 0.0.0.0 www.babeimpact.com # OK
 0.0.0.0 www.babes34.me
 0.0.0.0 www.babesandbitches.net
 0.0.0.0 www.babesandgirls.com
 0.0.0.0 www.babesaround.com
-0.0.0.0 www.babesbang.com
 0.0.0.0 www.babesbang.com # OK
 0.0.0.0 www.babesdg.com
 0.0.0.0 www.babesinporn.com
-0.0.0.0 www.babesmachine.com
 0.0.0.0 www.babesmachine.com # OK
 0.0.0.0 www.babestation.tv
 0.0.0.0 www.babestube.com
@@ -3530,7 +3514,6 @@
 0.0.0.0 www.firstadultgames.com
 0.0.0.0 www.flagrasamadores.net
 0.0.0.0 www.flirt4free.com
-0.0.0.0 www.floppy-tits.com
 0.0.0.0 www.floppy-tits.com # OK
 0.0.0.0 www.foneflirts.com
 0.0.0.0 www.footfetishpalace.blogspot.com
@@ -3596,7 +3579,6 @@
 0.0.0.0 www.gethornynow.com
 0.0.0.0 www.getsexblogs.com
 0.0.0.0 www.gifgoo.com
-0.0.0.0 www.gigapic.com
 0.0.0.0 www.gigapic.com # OK
 0.0.0.0 www.gimmeadult.com
 0.0.0.0 www.girlnude.link
@@ -3842,7 +3824,6 @@
 0.0.0.0 www.novoboobs.com
 0.0.0.0 www.novohot.com
 0.0.0.0 www.novojoy.com
-0.0.0.0 www.novoporn.com
 0.0.0.0 www.novoporn.com # OK
 0.0.0.0 www.novostrong.com
 0.0.0.0 www.novoteens.com
@@ -3995,7 +3976,6 @@
 0.0.0.0 www.racyme.com
 0.0.0.0 www.reachporn.com
 0.0.0.0 www.redlightcenter.com
-0.0.0.0 www.redpornblog.com
 0.0.0.0 www.redpornblog.com # OK
 0.0.0.0 www.renderotica.com
 0.0.0.0 www.rintor.net
