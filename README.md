@@ -3,9 +3,11 @@ Hosts block lists
 
 Adult.txt: Sites with adult material, also include scam or fake adult sites
 
+The Adult list is being edited constantly, it might have wrong stuff in it, **BE WARNED**
+
 Sites with **# OK** have been reviewed and confirmed to be working and have adult material
 
-over **2500 Adult sites reached**
+over **3000 Adult sites reached**
 
 ads.txt: Advertisements block list
 
