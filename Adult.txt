@@ -1,6 +1,11 @@
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 www.sexadept.com
+0.0.0.0 sockblocked.com # OK
+0.0.0.0 teenerotica.xxx # OK
+0.0.0.0 www.teenslovehugecocks.com # OK
+0.0.0.0 megan-summers.com # OK
+0.0.0.0 www.vibratecams.com # OK
 0.0.0.0 www.damnsexypic.com # OK
 0.0.0.0 whornyfilms.com # OK
 0.0.0.0 privateglamour.com # OK
