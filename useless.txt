@@ -1,1 +1,2 @@
 0.0.0.0 acidcow.com
+0.0.0.0 www.listal.com
