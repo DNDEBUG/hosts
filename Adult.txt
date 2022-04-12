@@ -7,6 +7,7 @@
 0.0.0.0 megan-summers.com # OK
 0.0.0.0 www.vibratecams.com # OK
 0.0.0.0 xxx.huyamba.mobi # OK
+0.0.0.0 magicplants.ru # OK
 0.0.0.0 top.huyamba.info # OK
 0.0.0.0 huyamba.info # OK
 0.0.0.0 ru.onlinetube.tv # OK
