@@ -7,7 +7,7 @@ The Adult list is being edited constantly, it might have wrong stuff in it, **BE
 
 Sites with **# OK** have been reviewed and confirmed to be working and have adult material
 
-over **4500 Adult sites reached**
+over **5000 Adult sites reached**
 
 ads.txt: Advertisements block list
 
