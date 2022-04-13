@@ -1577,7 +1577,16 @@
 0.0.0.0 girlfriendvideos.com
 0.0.0.0 girlfriendvids.net
 0.0.0.0 girlsfuckvideo.pro
-0.0.0.0 girlsofdesire.org
+0.0.0.0 www.bustybloom.com
+0.0.0.0 www.100bucksbabes.com
+0.0.0.0 www.morazzia.com
+0.0.0.0 www.sexyaporno.com
+0.0.0.0 www.babesandbitches.ne
+0.0.0.0 new-york.bedpage.com
+0.0.0.0 www.babesandgirls.com
+0.0.0.0 www.wantedbabes.com
+0.0.0.0 www.exgirlfriendmarket.com
+0.0.0.0 cameraprive.com
 0.0.0.0 girlstiedup.bizarre-sex.info
 0.0.0.0 girlswallowed.com
 0.0.0.0 girlwallpaper.pro
@@ -1605,7 +1614,6 @@
 0.0.0.0 grandmajerksoffgrandson.blogspot.com
 0.0.0.0 grandpastube.com
 0.0.0.0 granny-movies.com
-0.0.0.0 granny-sex
 0.0.0.0 gravuremodels.com
 0.0.0.0 greathentaiporn.com
 0.0.0.0 greatrumps.com
@@ -1745,13 +1753,13 @@
 0.0.0.0 highdefinitiontube.com
 0.0.0.0 hindieroticas.blogspot.com
 0.0.0.0 hindixxx.top
-0.0.0.0 hiper.cool
+0.0.0.0 hiper.cool # OK
 0.0.0.0 hisgayporn.com
 0.0.0.0 hitmanx3z.blogspot.com
 0.0.0.0 hitmanx3z.blogspot.fr
 0.0.0.0 hitmanx3z.blogspot.nl
 0.0.0.0 hizzacked.com
-0.0.0.0 hmoegirl.com
+0.0.0.0 hmoegirl.com # OK
 0.0.0.0 hogtiedtube.com
 0.0.0.0 holybackshots.com
 0.0.0.0 home-adult.com
@@ -2098,7 +2106,7 @@
 0.0.0.0 letsfuckme.net
 0.0.0.0 lewdcorner.com
 0.0.0.0 lewdvrgames.com
-0.0.0.0 lewdzone.com
+0.0.0.0 lewdzone.com # OK
 0.0.0.0 lgbtq.games
 0.0.0.0 libertinade.com
 0.0.0.0 lifeupskirt.com
@@ -2197,7 +2205,6 @@
 0.0.0.0 malevideosxxx.com
 0.0.0.0 malik-delgaty
 0.0.0.0 mamba-games.com
-0.0.0.0 manebooru.art
 0.0.0.0 manga.sexy
 0.0.0.0 manga18.art
 0.0.0.0 manga18fx.com
@@ -2712,8 +2719,8 @@
 0.0.0.0 pornsub.club
 0.0.0.0 pornteen.club
 0.0.0.0 porntoplinks.com
-0.0.0.0 porntrial.mx
-0.0.0.0 porntropics.com
+0.0.0.0 porntrial.mx # OK
+0.0.0.0 porntropics.com 
 0.0.0.0 porntube.asia
 0.0.0.0 porntube.com
 0.0.0.0 porntube.run
