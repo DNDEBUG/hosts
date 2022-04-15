@@ -3,6 +3,13 @@
 0.0.0.0 sldolls.com
 0.0.0.0 sydolls.com
 0.0.0.0 irealdoll.com
+0.0.0.0 vjav.com # OK
+0.0.0.0 adult.mat6tube.com # OK
+0.0.0.0 pornasmr.net # OK
+0.0.0.0 www.hot-sex-photos.com # OK
+0.0.0.0 cdn.hot-sex-photos.com # OK
+0.0.0.0 asscollector.blogspot.com # OK
+0.0.0.0 her.porn
 0.0.0.0 www.dokidoll.com
 0.0.0.0 theguyshack.com
 0.0.0.0 123topwallz.blogspot.com
@@ -83,11 +90,10 @@
 0.0.0.0 3hentai.net # OK
 0.0.0.0 3mag.net # OK
 0.0.0.0 3movs.xyz # OK
-0.0.0.0 3xmovs.com
 0.0.0.0 4boystube.com
 0.0.0.0 4crot.com # OK
 0.0.0.0 4k-vr.com # OK
-0.0.0.0 4ksex.me
+0.0.0.0 4ksex.me # OK
 0.0.0.0 4ksex.me # OK
 0.0.0.0 5porno.pro # OK
 0.0.0.0 628701.site123.me # OK
@@ -102,6 +108,7 @@
 0.0.0.0 8animal.com # OK
 0.0.0.0 8boobs.com
 0.0.0.0 8teenz.info
+0.0.0.0 www.babesandgirls.com
 0.0.0.0 8thstreetlatinas.com
 0.0.0.0 8zoo.net # OK
 0.0.0.0 91mh.co # OK
@@ -4307,6 +4314,7 @@
 0.0.0.0 www.nude.hu
 0.0.0.0 www.nude911.com
 0.0.0.0 www.nudeamateurgirls.com
+0.0.0.0 webcams.nude.hu
 0.0.0.0 www.nudeasianboys.com
 0.0.0.0 www.nudeblogz.com
 0.0.0.0 www.nudeboyspictures.com
