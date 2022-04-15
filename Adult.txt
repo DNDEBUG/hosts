@@ -1244,7 +1244,6 @@
 0.0.0.0 en.jpg4.biz
 0.0.0.0 en.thehentai.net
 0.0.0.0 en.tspornotube.com
-0.0.0.0 en.wikipedia.org
 0.0.0.0 en.yasex.net # OK
 0.0.0.0 enhdsex.com # OK
 0.0.0.0 enjoyretro.com
