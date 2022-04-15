@@ -3820,7 +3820,6 @@
 0.0.0.0 www.blackhairypussy.org
 0.0.0.0 www.blacksonblondes.com # OK
 0.0.0.0 www.blazinglink.com
-0.0.0.0 www.blogger.com
 0.0.0.0 www.blogmaxegatos.com
 0.0.0.0 www.blogr.xxx
 0.0.0.0 www.blogsandgirls.com
