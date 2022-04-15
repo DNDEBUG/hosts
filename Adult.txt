@@ -3490,7 +3490,7 @@
 0.0.0.0 txxx.club
 0.0.0.0 txxx1.com
 0.0.0.0 u18chan.com
-0.0.0.0 ua.yasex.net #OK
+0.0.0.0 ua.yasex.net # OK
 0.0.0.0 uaporn.net
 0.0.0.0 uberhumor.com
 0.0.0.0 uberporno.com
