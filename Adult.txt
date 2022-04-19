@@ -3,6 +3,7 @@
 0.0.0.0 0magnet.com # OK
 0.0.0.0 100bigass.com # OK
 0.0.0.0 100boyself.com # OK
+0.0.0.0 bestofcomicbooks.com # OK
 0.0.0.0 izispicy.com # OK
 0.0.0.0 100bucksbabes.com # OK
 0.0.0.0 101boyvideos.com # OK
