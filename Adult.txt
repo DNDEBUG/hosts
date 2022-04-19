@@ -9,6 +9,7 @@
 0.0.0.0 101boyvideos.com # OK
 0.0.0.0 101hotguys.chaturbate.com # OK
 0.0.0.0 101hotguys.com
+0.0.0.0 just.luckytreker.com # OK
 0.0.0.0 1024ph.com # OK
 0.0.0.0 1080p.av4.club # OK
 0.0.0.0 111webcams.com
