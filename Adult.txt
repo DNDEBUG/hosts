@@ -1,4 +1,6 @@
 0.0.0.0 007gayboys.com # OK
+0.0.0.0 myporn.fun # OK
+0.0.0.0 2.multporn.net # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 www.vampire69blog.com
