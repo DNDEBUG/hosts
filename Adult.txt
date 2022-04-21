@@ -1,7 +1,16 @@
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 myporn.fun # OK
 0.0.0.0 2.multporn.net # OK
+0.0.0.0 www.videosxx3.com # OK
+0.0.0.0 www.iamxxx.com # OK
+0.0.0.0 cdn.iamxxx.com # OK
+0.0.0.0 www.nudevista.tv
+0.0.0.0 video.nudevista.tv
 0.0.0.0 0cili.com # OK
+0.0.0.0 www.freelocalhos.com # OK
+0.0.0.0 www.nichetopsites.com
+0.0.0.0 xbraz.com # OK
+0.0.0.0 www.4crot.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 www.vampire69blog.com
 0.0.0.0 100bigass.com # OK
