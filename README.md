@@ -1,6 +1,8 @@
 # hosts
 Hosts block lists
+
 i am more interested in blocking porn
+
 but if i find anything else i'll be listing it too
 
 **Adult.txt**: Sites with adult material, also include scam or fake adult sites
