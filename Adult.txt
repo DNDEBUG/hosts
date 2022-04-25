@@ -5,6 +5,7 @@
 0.0.0.0 100boyself.com # OK
 0.0.0.0 100bucksbabes.com # OK
 0.0.0.0 101boyvideos.com # OK
+0.0.0.0 jav-magnet.com # OK
 0.0.0.0 101hotguys.chaturbate.com # OK
 0.0.0.0 101hotguys.com
 0.0.0.0 1024ph.com # OK
@@ -1998,7 +1999,6 @@
 0.0.0.0 jumboporn.xyz
 0.0.0.0 jusdequeues.over-blog.com
 0.0.0.0 just.luckytreker.com # OK
-0.0.0.0 just.luckytreker.com OK
 0.0.0.0 just.xxx
 0.0.0.0 justcfnm.org
 0.0.0.0 justfanspw.site
@@ -2884,7 +2884,7 @@
 0.0.0.0 romy-star.blogspot.com
 0.0.0.0 rosaclemente.com # OK
 0.0.0.0 roshy.tv
-0.0.0.0 rossportsolidaritycamp.org #OK
+0.0.0.0 rossportsolidaritycamp.org # OK
 0.0.0.0 rozpusta.com
 0.0.0.0 ru.av4.club
 0.0.0.0 ru.hentai-img.com
@@ -3524,7 +3524,7 @@
 0.0.0.0 unconsciouadventuresofatypicaltom.blogspot.com
 0.0.0.0 undresshotsexygirls.blogspot.com
 0.0.0.0 unehistoiredemecs.erog.fr
-0.0.0.0 uniondht.org # Uniondht shouldn't be trusted in any shape or form
+0.0.0.0 uniondht.org # OK
 0.0.0.0 uniquebondage.com
 0.0.0.0 universogbr.blogspot.com
 0.0.0.0 upload.catcollection.org
@@ -4711,7 +4711,7 @@
 0.0.0.0 www.vrporngalaxy.com
 0.0.0.0 www.vrpornlist.com
 0.0.0.0 www.vrsmash.com
-0.0.0.0 www.vsexdoll.com # Ok
+0.0.0.0 www.vsexdoll.com # OK
 0.0.0.0 www.wankerhut.com
 0.0.0.0 www.wantedbabes.com
 0.0.0.0 www.wastedblogs.com
