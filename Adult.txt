@@ -6,6 +6,8 @@
 0.0.0.0 100boyself.com # OK
 0.0.0.0 100bucksbabes.com # OK
 0.0.0.0 101boyvideos.com # OK
+0.0.0.0 comicsmania.com
+0.0.0.0 www.bwthumbs.com
 0.0.0.0 jav-magnet.com # OK
 0.0.0.0 101hotguys.chaturbate.com # OK
 0.0.0.0 101hotguys.com
@@ -167,7 +169,7 @@
 0.0.0.0 all-adult-blogs.com
 0.0.0.0 all-best-porno.com
 0.0.0.0 all-h-booru.booru.org
-0.0.0.0 all-hentai.com
+0.0.0.0 all-hentai.com # OK
 0.0.0.0 all-nude-celebrities.net
 0.0.0.0 all4sianporn.blogspot.com
 0.0.0.0 alladultvideo.net
@@ -190,6 +192,9 @@
 0.0.0.0 allgravure.com
 0.0.0.0 allhardcoreporn.blogspot.com
 0.0.0.0 allhentaiporn.blogspot.com
+0.0.0.0 allcosplayporn.blogspot.com
+0.0.0.0 street-of-porn.com
+0.0.0.0 allhardcoreporn.blogspot.com
 0.0.0.0 allinterracialporn.blogspot.com
 0.0.0.0 alllesbianporn.blogspot.com
 0.0.0.0 allmatureporn.blogspot.com
@@ -263,7 +268,7 @@
 0.0.0.0 animehentaihub.com
 0.0.0.0 animehentaivideo.com
 0.0.0.0 animesex.games
-0.0.0.0 animeshentai.biz
+0.0.0.0 animeshentai.biz # OK
 0.0.0.0 animetaboo.xyz
 0.0.0.0 animeteenxxx.com
 0.0.0.0 animexxx.xyz
