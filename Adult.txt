@@ -52,6 +52,9 @@
 0.0.0.0 2gayteenlovers.nibblebit.com
 0.0.0.0 3-d-c.com # OK
 0.0.0.0 3600sex.com
+0.0.0.0 pornoxxxit.com # OK
+0.0.0.0 gurusex.net  # OK
+0.0.0.0 mycosplaygirls.com # OK
 0.0.0.0 360solos.blogspot.com # OK
 0.0.0.0 3danimeworld.com
 0.0.0.0 3dcartoons.xyz # OK
@@ -59,7 +62,7 @@
 0.0.0.0 3dfamilysex.xyz # OK
 0.0.0.0 3dfucking.net # OK
 0.0.0.0 3dfutaporn.com # OK
-0.0.0.0 3dhentaitube.com
+0.0.0.0 3dhentaitube.com # OK
 0.0.0.0 3dhv2.blogspot.com # OK
 0.0.0.0 3dmatureorgies.blogspot.com # OK
 0.0.0.0 3dporn.vip # OK
