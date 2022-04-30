@@ -1,5 +1,6 @@
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 0cili.com # OK
+0.0.0.0 www.moemarket.com # OK
 0.0.0.0 rednsfw.com
 0.0.0.0 www.redlightponyville.com # OK
 0.0.0.0 megacomixadult.com # OK
