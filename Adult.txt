@@ -4592,7 +4592,6 @@
 0.0.0.0 www.nudeteen.org
 0.0.0.0 www.nudeteenboys.com
 0.0.0.0 www.nudevideos.club
-0.0.0.0 www.nudevista.tv
 0.0.0.0 www.nudist-camp.info
 0.0.0.0 www.nudist-photos.info
 0.0.0.0 www.nudistbeachboys.com
@@ -4609,10 +4608,10 @@
 0.0.0.0 www.onlynudes.org
 0.0.0.0 www.onlythots.org # OK
 0.0.0.0 www.openlife.com
-0.0.0.0 www.otonajp.com
+0.0.0.0 www.otonajp.com # OK
 0.0.0.0 www.oudoll.com # OK
 0.0.0.0 www.outlawtgp.com
-0.0.0.0 www.ovdoll.com
+0.0.0.0 www.ovdoll.com # OK
 0.0.0.0 www.overwatchfuck.com
 0.0.0.0 www.paidpornguide.com
 0.0.0.0 www.painanal.net # OK
@@ -4648,7 +4647,6 @@
 0.0.0.0 www.pincelebs.net
 0.0.0.0 www.pinkworld.com
 0.0.0.0 www.pirouvr.com
-0.0.0.0 www.pixxels.at
 0.0.0.0 www.pleasuregirl.net
 0.0.0.0 www.plublogs.com
 0.0.0.0 www.plumppussy.org
