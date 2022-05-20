@@ -3,6 +3,8 @@
 0.0.0.0 ayaznal.ru
 0.0.0.0 cin.pw # OK
 0.0.0.0 hentaicovid.com # OK
+0.0.0.0 telochki.org
+0.0.0.0 nicetits.ru
 0.0.0.0 sms-hentai.com # OK
 0.0.0.0 fc2covid.com # OK
 0.0.0.0 mangacovid.com # OK
@@ -29,6 +31,7 @@
 0.0.0.0 qqcyjs.link
 0.0.0.0 u3c3.live
 0.0.0.0 apps.91url.info
+0.0.0.0 axotup.ru
 0.0.0.0 pornbb.cc
 0.0.0.0 www.jgg18.io
 0.0.0.0 www.admiringbeauty.art # OK
