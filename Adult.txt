@@ -1,12 +1,22 @@
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 ayaznal.ru
-0.0.0.0 cin.pw
-0.0.0.0 hentaicovid.com
-0.0.0.0 www.teenfidelity.com
+0.0.0.0 cin.pw # OK
+0.0.0.0 hentaicovid.com # OK
+0.0.0.0 sms-hentai.com # OK
+0.0.0.0 fc2covid.com # OK
+0.0.0.0 mangacovid.com # OK
+0.0.0.0 ovacovid.com # OK
+0.0.0.0 javcovid.com # OK
+0.0.0.0 4fuk.org # OK
+0.0.0.0 shentai-anime.com # OK
+0.0.0.0 fikfok.net # OK
+0.0.0.0 www.teenfidelity.com # OK
+0.0.0.0 www.kellymadison.com # OK
+0.0.0.0 www.pornfidelity.com # OK
 0.0.0.0 www.jporn.me
-0.0.0.0 www.jgg18.io
-0.0.0.0 m.janime.xyz
+0.0.0.0 www.jgg18.io # OK
+0.0.0.0 m.janime.xyz 
 0.0.0.0 www.janime.xyz
 0.0.0.0 yhy.aff004.net
 0.0.0.0 avmoo.click
