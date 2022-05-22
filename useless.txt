@@ -4,3 +4,4 @@
 0.0.0.0 socialunderground.com
 0.0.0.0 www.cracked.com
 0.0.0.0 boxden.com
+0.0.0.0 thetartpaper.com
