@@ -13,7 +13,7 @@ Sites with **# OK** have been reviewed and confirmed to be working and have adul
 
 for a site to get a **# OK** i have to first review then scrape all links for other sites i can, so some sites are really boring and i can take some time to confirm them
 
-over **5000 Adult sites reached**
+over **5500 Adult sites reached**
 
 **ads.txt**: Advertisements block list
 
