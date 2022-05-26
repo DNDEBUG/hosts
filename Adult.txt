@@ -139,7 +139,6 @@
 0.0.0.0 abyss3d.blogspot.com # OK
 0.0.0.0 ac-porn.com
 0.0.0.0 actiongirls.com # OK
-0.0.0.0 adorevids.com
 0.0.0.0 adoujin.com # OK
 0.0.0.0 adult-comics.1hentai.org # OK
 0.0.0.0 adult-home-videos.com
