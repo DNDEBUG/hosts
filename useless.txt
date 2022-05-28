@@ -6,3 +6,6 @@
 0.0.0.0 boxden.com
 0.0.0.0 thetartpaper.com
 0.0.0.0 boards.4channel.org
+0.0.0.0 www.4chan.org
+0.0.0.0 i.4cdn.org
+0.0.0.0 s.4cdn.org
