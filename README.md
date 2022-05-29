@@ -22,3 +22,7 @@ over **5500 Adult sites reached**
 **removed.txt**: sites that have been removed from some list for some reason, or sites that don't work anymore, but might come back some day
 
 **useless.txt**: Irrelevant websites or designed to be a waste of time
+
+**HELP ME BUY A NEW HARDDRIVE**
+monero:892MhVb6bJNDwvuhQNJBWtLfaXBH2FjbGdzcKJvesE6B8LpfyASmJf836pPjE3uK  
+![98880063](https://user-images.githubusercontent.com/98880063/170874910-7bc80f3c-ee31-477e-9d43-088eb262939d.png)
