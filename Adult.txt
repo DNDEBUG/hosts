@@ -7,7 +7,6 @@
 0.0.0.0 101boyvideos.com # OK
 0.0.0.0 101hotguys.chaturbate.com # OK
 0.0.0.0 101hotguys.com # OK
-0.0.0.0 porndora.com # OK
 0.0.0.0 1024ph.com # OK
 0.0.0.0 1080p.av4.club # OK
 0.0.0.0 111webcams.com # OK
@@ -569,6 +568,7 @@
 0.0.0.0 bleachbooru.org # OK
 0.0.0.0 blog.bigboobscelebrity.com
 0.0.0.0 blog.jav4you.com
+0.0.0.0 blog.porndora.com # OK
 0.0.0.0 blog.sunnytgp.com
 0.0.0.0 blog.youonlywetter.co.uk
 0.0.0.0 blogcaraespiao.blogspot.com
@@ -2224,12 +2224,14 @@
 0.0.0.0 k2s.club
 0.0.0.0 k9monster.net
 0.0.0.0 kainpopoy.com
+0.0.0.0 kanako.store # OK
 0.0.0.0 karupsha.com
 0.0.0.0 karupspc.com
 0.0.0.0 katesplayground.com
 0.0.0.0 kathoeytube.com
 0.0.0.0 katitube.com
 0.0.0.0 kawaiihentai.com
+0.0.0.0 keep2share-porn.com # OK
 0.0.0.0 keep2share.io
 0.0.0.0 keezmovies.cyou
 0.0.0.0 keezmovies.pro
@@ -2587,6 +2589,7 @@
 0.0.0.0 motherless.com
 0.0.0.0 motherstaboo.com
 0.0.0.0 mothersvideo.com
+0.0.0.0 movieporn.com # OK
 0.0.0.0 moviesteen.eu
 0.0.0.0 mp3.youtube4download.space
 0.0.0.0 mplstudios.com
@@ -2939,6 +2942,8 @@
 0.0.0.0 pornday.net
 0.0.0.0 porndeals.com
 0.0.0.0 porndig.pro
+0.0.0.0 porndora.com # OK
+0.0.0.0 porndora.xyz # OK
 0.0.0.0 porndork.com
 0.0.0.0 porndude.co.uk
 0.0.0.0 porndude.me
@@ -4597,6 +4602,7 @@
 0.0.0.0 www.fucktube4k.com
 0.0.0.0 www.fuckulio.com
 0.0.0.0 www.fullhdxxx.com
+0.0.0.0 www.fullporn.net # OK
 0.0.0.0 www.fullyhd.com
 0.0.0.0 www.fullyporn.com
 0.0.0.0 www.funkysextube.com
@@ -5160,6 +5166,7 @@
 0.0.0.0 www.pornvideoh.com
 0.0.0.0 www.pornyblogz.com
 0.0.0.0 www.pov-house.com
+0.0.0.0 www.povaddict.com # OK
 0.0.0.0 www.poweredbyporn.com
 0.0.0.0 www.preggocams.live
 0.0.0.0 www.premiumdolls.com # OK
