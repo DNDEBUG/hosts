@@ -41,6 +41,7 @@
 0.0.0.0 1pornsites.com # OK
 0.0.0.0 1teenporn.com
 0.0.0.0 1xxx.tv
+0.0.0.0 xxxkin.com
 0.0.0.0 2.multporn.net # OK
 0.0.0.0 21Sextury.com
 0.0.0.0 21naturals.com
