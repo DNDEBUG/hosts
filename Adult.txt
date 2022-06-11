@@ -4177,7 +4177,6 @@
 0.0.0.0 wowpornz.com
 0.0.0.0 wozi.cc
 0.0.0.0 wtfpeople.com
-0.0.0.0 ww1.3d-lotus.com # ad?
 0.0.0.0 ww1.3dx-games.com
 0.0.0.0 ww1.chinababe.net
 0.0.0.0 ww1.javbabe.net
