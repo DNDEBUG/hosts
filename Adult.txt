@@ -4087,7 +4087,6 @@
 0.0.0.0 vivthomas.com
 0.0.0.0 vjav.com # OK
 0.0.0.0 vjav.one
-0.0.0.0 vk.com
 0.0.0.0 vollderottoblog.blogspot.com
 0.0.0.0 voyeurboss.com
 0.0.0.0 voyeurcrush.com # OK
