@@ -1,5 +1,9 @@
 0.0.0.0 assandfurious.com # OK
 0.0.0.0 embed-player.space
+0.0.0.0 ebalka.fun
+0.0.0.0 ebalka.video
+0.0.0.0 pvvstream.top
+0.0.0.0 nmcorp.video
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 0cili.com # OK
