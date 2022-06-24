@@ -1,3 +1,18 @@
+0.0.0.0 ebalka.men # OK
+0.0.0.0 ebaka.net # OK
+0.0.0.0 www.embed.club # OK
+0.0.0.0 ebalka.pw # OK
+0.0.0.0 ebalka.im # OK
+0.0.0.0 1pornoonlain.net # OK
+0.0.0.0 cdn.1xxx.pro # OK
+0.0.0.0 cdn2.1xxx.pro # OK
+0.0.0.0 1xxx.pro # OK
+0.0.0.0 23.allhen.online # OK
+0.0.0.0 hentaichan.live # OK
+0.0.0.0 y.hentaichan.live # OK
+0.0.0.0 xzhentai.net # OK
+0.0.0.0 ehentai.to # OK
+0.0.0.0 nhentai.to # OK
 0.0.0.0 assandfurious.com # OK
 0.0.0.0 embed-player.space
 0.0.0.0 ebalka.fun
