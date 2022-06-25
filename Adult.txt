@@ -1,88 +1,3 @@
-0.0.0.0 ebalka.men # OK
-allhdreview.com
-creativeporn.com # OK
-czechamateurs.com # OK
-czechbangbus.com # OK
-czechbitch.com # OK
-czechcasting.com # OK
-czechcouples.com # OK
-czechdungeon.com # OK
-czechdungeon.com # OK
-czechestrogenolit.com # OK
-czechexperiment.com # OK
-czechfirstvideo.com # OK
-czechgangbang.com # OK
-czechgardenparty.com # OK
-czechgav.com # OK
-czechgav.com # OK
-czechgayamateurs.com # OK
-czechgaycasting.com # OK
-czechgaycouples.com # OK
-czechgayfantasy.com # OK
-czechgaymassage.com # OK
-czechgaysolarium.com # OK
-czechharem.com # OK
-czechhomeorgy.com # OK
-czechmassage.com # OK
-czechmegaswingers.com # OK
-czechorgasm.com # OK
-czechparties.com # OK
-czechpawnshop.com # OK
-czechsnooper.com # OK
-czechspy.com # OK
-czechstreets.com # OK
-czechsupermodels.com # OK
-czechtantra.com # OK
-czechtaxi.com # OK
-czechwifeswap.com # OK
-dirtysarah.com # OK
-extremestreets.com # OK
-gameoflust2.com # OK
-gayhorrorporn.com # OK
-glaminogirls.com # OK
-kinkyliterature.blogspot.com # OK
-lifepornstories.com # OK
-mysexporn.com
-nats.czechcash.com # OK
-paidpornsites.net
-perversefamily.com # OK
-perversefamilylive.com # OK
-pornabc.com
-powerfetish.com # OK
-spy26.com # OK
-tmwvrnet.com # OK
-toppaidpornsites.com
-unrealporn.com # OK
-ww.adultreviews.com
-www.glamino.com # OK
-www.kinkyliterature.com # OK
-www.planetclimax.com
-www.pornsurferreports.com
-www.qualityporn.com
-www.realitypornsearch.com
-www.tylerspornreviews.com
-www.xfree.com # OK
-xxxreviews.org
-0.0.0.0 ebaka.net # OK
-0.0.0.0 www.embed.club # OK
-0.0.0.0 ebalka.pw # OK
-0.0.0.0 ebalka.im # OK
-0.0.0.0 1pornoonlain.net # OK
-0.0.0.0 cdn.1xxx.pro # OK
-0.0.0.0 cdn2.1xxx.pro # OK
-0.0.0.0 1xxx.pro # OK
-0.0.0.0 23.allhen.online # OK
-0.0.0.0 hentaichan.live # OK
-0.0.0.0 y.hentaichan.live # OK
-0.0.0.0 xzhentai.net # OK
-0.0.0.0 ehentai.to # OK
-0.0.0.0 nhentai.to # OK
-0.0.0.0 assandfurious.com # OK
-0.0.0.0 embed-player.space
-0.0.0.0 ebalka.fun
-0.0.0.0 ebalka.video
-0.0.0.0 pvvstream.top
-0.0.0.0 nmcorp.video
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 0cili.com # OK
@@ -124,12 +39,15 @@ xxxreviews.org
 0.0.0.0 1hentai.org # OK
 0.0.0.0 1leak.com
 0.0.0.0 1mature.tv
+0.0.0.0 1pornoonlain.net # OK
 0.0.0.0 1pornsites.com # OK
 0.0.0.0 1teenporn.com
+0.0.0.0 1xxx.pro # OK
 0.0.0.0 1xxx.tv
 0.0.0.0 2.multporn.net # OK
 0.0.0.0 21Sextury.com
 0.0.0.0 21naturals.com
+0.0.0.0 23.allhen.online # OK
 0.0.0.0 24gaytube.com
 0.0.0.0 24h.porn
 0.0.0.0 24porn.pro # OK
@@ -298,6 +216,7 @@ xxxreviews.org
 0.0.0.0 allgayteenboys.com
 0.0.0.0 allgravure.com
 0.0.0.0 allhardcoreporn.blogspot.com
+0.0.0.0 allhdreview.com
 0.0.0.0 allhentaiporn.blogspot.com
 0.0.0.0 allhorsesex.com
 0.0.0.0 allinterracialporn.blogspot.com
@@ -444,6 +363,7 @@ xxxreviews.org
 0.0.0.0 ass-focused.com
 0.0.0.0 ass-paradiso.com
 0.0.0.0 ass-sexy.net
+0.0.0.0 assandfurious.com # OK
 0.0.0.0 assbomber.com
 0.0.0.0 assbootypics.com
 0.0.0.0 asscollector.blogspot.com # OK
@@ -821,8 +741,10 @@ xxxreviews.org
 0.0.0.0 catherineii.com
 0.0.0.0 caughtjerkingoffatwork.blogspot.com
 0.0.0.0 caughtjerkingoffstories.blogspot.com
+0.0.0.0 cdn.1xxx.pro # OK
 0.0.0.0 cdn.hot-sex-photos.com # OK
 0.0.0.0 cdn.iamxxx.com # OK
+0.0.0.0 cdn2.1xxx.pro # OK
 0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 celeb-stalker.com # OK
 0.0.0.0 celebjared.net
@@ -1266,6 +1188,7 @@ xxxreviews.org
 0.0.0.0 crazyxxxcartoons.com
 0.0.0.0 creampiesgalore.com
 0.0.0.0 creativecommons.org
+0.0.0.0 creativeporn.com # OK
 0.0.0.0 crossdresserescorts.blogspot.com
 0.0.0.0 cruelfemales.blogspot.com
 0.0.0.0 cruisingmad.com
@@ -1296,7 +1219,39 @@ xxxreviews.org
 0.0.0.0 cyprine2013.blogspot.com
 0.0.0.0 cyprine2013.blogspot.fr
 0.0.0.0 cz.xhamster.desi
+0.0.0.0 czechamateurs.com # OK
+0.0.0.0 czechbangbus.com # OK
+0.0.0.0 czechbitch.com # OK
 0.0.0.0 czechcabins.com
+0.0.0.0 czechcasting.com # OK
+0.0.0.0 czechcouples.com # OK
+0.0.0.0 czechdungeon.com # OK
+0.0.0.0 czechestrogenolit.com # OK
+0.0.0.0 czechexperiment.com # OK
+0.0.0.0 czechfirstvideo.com # OK
+0.0.0.0 czechgangbang.com # OK
+0.0.0.0 czechgardenparty.com # OK
+0.0.0.0 czechgav.com # OK
+0.0.0.0 czechgayamateurs.com # OK
+0.0.0.0 czechgaycasting.com # OK
+0.0.0.0 czechgaycouples.com # OK
+0.0.0.0 czechgayfantasy.com # OK
+0.0.0.0 czechgaymassage.com # OK
+0.0.0.0 czechgaysolarium.com # OK
+0.0.0.0 czechharem.com # OK
+0.0.0.0 czechhomeorgy.com # OK
+0.0.0.0 czechmassage.com # OK
+0.0.0.0 czechmegaswingers.com # OK
+0.0.0.0 czechorgasm.com # OK
+0.0.0.0 czechparties.com # OK
+0.0.0.0 czechpawnshop.com # OK
+0.0.0.0 czechsnooper.com # OK
+0.0.0.0 czechspy.com # OK
+0.0.0.0 czechstreets.com # OK
+0.0.0.0 czechsupermodels.com # OK
+0.0.0.0 czechtantra.com # OK
+0.0.0.0 czechtaxi.com # OK
+0.0.0.0 czechwifeswap.com # OK
 0.0.0.0 d.v1q85.com
 0.0.0.0 d0g.dog
 0.0.0.0 d0g.monster
@@ -1373,6 +1328,7 @@ xxxreviews.org
 0.0.0.0 dirtygirlkamilla.blogspot.com
 0.0.0.0 dirtyleague.com
 0.0.0.0 dirtypantyteen.blogspot.com
+0.0.0.0 dirtysarah.com # OK
 0.0.0.0 discadpod.com # OK
 0.0.0.0 disgracetube.com
 0.0.0.0 disneyhentai.com
@@ -1426,7 +1382,13 @@ xxxreviews.org
 0.0.0.0 easternexxxpress.com
 0.0.0.0 easternporno.com
 0.0.0.0 easylatinas.blogspot.com
+0.0.0.0 ebaka.net # OK
+0.0.0.0 ebalka.fun
+0.0.0.0 ebalka.im # OK
+0.0.0.0 ebalka.men # OK
+0.0.0.0 ebalka.pw # OK
 0.0.0.0 ebalka.tv
+0.0.0.0 ebalka.video
 0.0.0.0 ebporn.com
 0.0.0.0 ecchi-hentai.net
 0.0.0.0 ecchi.iwara.tv
@@ -1435,10 +1397,12 @@ xxxreviews.org
 0.0.0.0 edfrwerwjzzydoias6brqreqog747f5lnczhvevvqybz76o27iypinad.onion.ws
 0.0.0.0 eemates.com
 0.0.0.0 eggporncomics.com
+0.0.0.0 ehentai.to # OK
 0.0.0.0 ehentaitube.com
 0.0.0.0 el124.com
 0.0.0.0 ellowas.tumblr.com
 0.0.0.0 eltoro2k8.blogspot.com
+0.0.0.0 embed-player.space
 0.0.0.0 emilyrosesmiles.blogspot.com
 0.0.0.0 empire-of-porn.com
 0.0.0.0 empirestores.co
@@ -1535,6 +1499,7 @@ xxxreviews.org
 0.0.0.0 extra-strony.pl
 0.0.0.0 extrapremiumaccounts.blogspot.com
 0.0.0.0 extremebondagepic.blogspot.com
+0.0.0.0 extremestreets.com # OK
 0.0.0.0 exxxtra.net
 0.0.0.0 f5tube.com
 0.0.0.0 f95zonegames.com
@@ -1757,6 +1722,7 @@ xxxreviews.org
 0.0.0.0 gallery.catcollection.org
 0.0.0.0 gallys.realitykings.com
 0.0.0.0 game.catcollection.org
+0.0.0.0 gameoflust2.com # OK
 0.0.0.0 games4guys.net
 0.0.0.0 gamesathletes.com
 0.0.0.0 gamesofdesired.com
@@ -1785,6 +1751,7 @@ xxxreviews.org
 0.0.0.0 gayfuck.grannykiss.com
 0.0.0.0 gayguysjackingeachotheroff.bpornd.com
 0.0.0.0 gayhardcore.pro
+0.0.0.0 gayhorrorporn.com # OK
 0.0.0.0 gaylivecams.org
 0.0.0.0 gaymenjerkingoffvideos.blogspot.com
 0.0.0.0 gaypinoyporn.com
@@ -1859,6 +1826,7 @@ xxxreviews.org
 0.0.0.0 girlwallpaper.pro
 0.0.0.0 givemesausage.com
 0.0.0.0 glam0ur.com
+0.0.0.0 glaminogirls.com # OK
 0.0.0.0 glamourescorts.net # OK
 0.0.0.0 glamourtits.com
 0.0.0.0 glassestube.com
@@ -1984,6 +1952,7 @@ xxxreviews.org
 0.0.0.0 hentai4share.com # OK
 0.0.0.0 hentaic.net
 0.0.0.0 hentaicentro.com
+0.0.0.0 hentaichan.live # OK
 0.0.0.0 hentaicoins.com
 0.0.0.0 hentaicollective.com
 0.0.0.0 hentaicomics18.xyz
@@ -2368,6 +2337,7 @@ xxxreviews.org
 0.0.0.0 kinkazoid.com
 0.0.0.0 kinky18.com
 0.0.0.0 kinkycougarvanessa.com
+0.0.0.0 kinkyliterature.blogspot.com # OK
 0.0.0.0 kinkysexblogs.blogspot.com
 0.0.0.0 kinkyteenporn.com
 0.0.0.0 kittiescollection.com
@@ -2466,6 +2436,7 @@ xxxreviews.org
 0.0.0.0 lgbtq.games
 0.0.0.0 libertinade.com
 0.0.0.0 life-likedoll.com # OK
+0.0.0.0 lifepornstories.com # OK
 0.0.0.0 lifeupskirt.com
 0.0.0.0 likkezg.com
 0.0.0.0 lilywow.com
@@ -2762,6 +2733,7 @@ xxxreviews.org
 0.0.0.0 myptravel.com
 0.0.0.0 mysexgamer.com
 0.0.0.0 mysexgames.com
+0.0.0.0 mysexporn.com
 0.0.0.0 mysexylily.com
 0.0.0.0 myshemale.co.uk
 0.0.0.0 mytaboo.net
@@ -2787,6 +2759,7 @@ xxxreviews.org
 0.0.0.0 nangiphotos.com
 0.0.0.0 nastybabesporn.com
 0.0.0.0 natasha.old-n-young.com
+0.0.0.0 nats.czechcash.com # OK
 0.0.0.0 naturalfuckvideos.com
 0.0.0.0 naturalhugebreasts.blogspot.com
 0.0.0.0 naughty-exposures.net
@@ -2812,6 +2785,7 @@ xxxreviews.org
 0.0.0.0 nextdoor-models.com
 0.0.0.0 nextgenporn.net
 0.0.0.0 nhentai.io
+0.0.0.0 nhentai.to # OK
 0.0.0.0 nhentai.xxx
 0.0.0.0 nhentaihaven.com
 0.0.0.0 niadd.com
@@ -2950,6 +2924,7 @@ xxxreviews.org
 0.0.0.0 pacinosadventures.com
 0.0.0.0 paidporn.com
 0.0.0.0 paidpornsites.com
+0.0.0.0 paidpornsites.net
 0.0.0.0 painal.net
 0.0.0.0 painalvideos.com
 0.0.0.0 panda.chaika.moe
@@ -2976,6 +2951,8 @@ xxxreviews.org
 0.0.0.0 perfectsexnow.com
 0.0.0.0 performingmales.blogspot.com
 0.0.0.0 perved.org
+0.0.0.0 perversefamily.com # OK
+0.0.0.0 perversefamilylive.com # OK
 0.0.0.0 pervypals.com
 0.0.0.0 petajensenclub.blogspot.com
 0.0.0.0 peternorth.com
@@ -3043,6 +3020,7 @@ xxxreviews.org
 0.0.0.0 porn4her.blogspot.com
 0.0.0.0 porn5.asia
 0.0.0.0 porn7.net
+0.0.0.0 pornabc.com
 0.0.0.0 pornado.co
 0.0.0.0 pornaffiliate.xxx
 0.0.0.0 pornaroma.com # OK
@@ -3239,6 +3217,7 @@ xxxreviews.org
 0.0.0.0 pourmonmec.com
 0.0.0.0 povd.com
 0.0.0.0 povtrans.com
+0.0.0.0 powerfetish.com # OK
 0.0.0.0 pr0porno.com
 0.0.0.0 premiumpornlist.com
 0.0.0.0 pretty-teen-sex.com
@@ -3299,6 +3278,7 @@ xxxreviews.org
 0.0.0.0 pussylivecams.ozost.com
 0.0.0.0 pussyprime.com
 0.0.0.0 putinho.net
+0.0.0.0 pvvstream.top
 0.0.0.0 pwa.oohcams.com
 0.0.0.0 pwpornlist.com
 0.0.0.0 qatarescortsvip.com
@@ -3697,6 +3677,7 @@ xxxreviews.org
 0.0.0.0 spicyass.com
 0.0.0.0 sponsorchat.com
 0.0.0.0 spunkyangels.com
+0.0.0.0 spy26.com # OK
 0.0.0.0 square.com
 0.0.0.0 ssex.us
 0.0.0.0 ssl.bootytape.com
@@ -3967,6 +3948,7 @@ xxxreviews.org
 0.0.0.0 titsmature.com
 0.0.0.0 tittiporn.com
 0.0.0.0 tittykings.com
+0.0.0.0 tmwvrnet.com # OK
 0.0.0.0 tnaflix.pw
 0.0.0.0 tnaflix.world
 0.0.0.0 to-sex.com
@@ -3990,6 +3972,7 @@ xxxreviews.org
 0.0.0.0 tophothere.blogspot.com
 0.0.0.0 topleaks.net # OK
 0.0.0.0 toplist18.com
+0.0.0.0 toppaidpornsites.com
 0.0.0.0 toppornguide.com
 0.0.0.0 toppornsites.com
 0.0.0.0 toppornsites.net
@@ -4144,6 +4127,7 @@ xxxreviews.org
 0.0.0.0 uniondht.org # OK
 0.0.0.0 uniquebondage.com
 0.0.0.0 universogbr.blogspot.com
+0.0.0.0 unrealporn.com # OK
 0.0.0.0 uom0.blogspot.com
 0.0.0.0 upload.catcollection.org
 0.0.0.0 upornia.club
@@ -4314,6 +4298,7 @@ xxxreviews.org
 0.0.0.0 wowpornz.com
 0.0.0.0 wozi.cc
 0.0.0.0 wtfpeople.com
+0.0.0.0 ww.adultreviews.com
 0.0.0.0 ww1.3dx-games.com
 0.0.0.0 ww1.chinababe.net
 0.0.0.0 ww1.javbabe.net
@@ -4664,6 +4649,7 @@ xxxreviews.org
 0.0.0.0 www.elephantlist.com
 0.0.0.0 www.elitemanchesterescorts.co.uk
 0.0.0.0 www.elovedolls.com # OK
+0.0.0.0 www.embed.club # OK
 0.0.0.0 www.emeraldporn.com
 0.0.0.0 www.engineering-accreditation.net
 0.0.0.0 www.epicsizefetish.blogspot.com
@@ -4804,6 +4790,7 @@ xxxreviews.org
 0.0.0.0 www.girlsofdesire.org
 0.0.0.0 www.girlsonlylive.com
 0.0.0.0 www.girlstryanal.com
+0.0.0.0 www.glamino.com # OK
 0.0.0.0 www.glamourhound.com
 0.0.0.0 www.go-xxx-go.com
 0.0.0.0 www.goblinstube.com
@@ -4977,6 +4964,7 @@ xxxreviews.org
 0.0.0.0 www.kink.com
 0.0.0.0 www.kinkly.com
 0.0.0.0 www.kinky-porn.net
+0.0.0.0 www.kinkyliterature.com # OK
 0.0.0.0 www.kktbg.com
 0.0.0.0 www.ky04.app
 0.0.0.0 www.kzmlspq.cn
@@ -5235,6 +5223,7 @@ xxxreviews.org
 0.0.0.0 www.pinksextube.com
 0.0.0.0 www.pinkworld.com
 0.0.0.0 www.pirouvr.com
+0.0.0.0 www.planetclimax.com
 0.0.0.0 www.pleasuregirl.net
 0.0.0.0 www.plublogs.com
 0.0.0.0 www.plumppussy.org
@@ -5313,6 +5302,7 @@ xxxreviews.org
 0.0.0.0 www.pornsocket.com
 0.0.0.0 www.pornsprite.com
 0.0.0.0 www.pornsub.club
+0.0.0.0 www.pornsurferreports.com
 0.0.0.0 www.porntasty.com
 0.0.0.0 www.porntubemobi.com
 0.0.0.0 www.porntubexxxl.com
@@ -5351,12 +5341,14 @@ xxxreviews.org
 0.0.0.0 www.quadrinhoseroticos.blog
 0.0.0.0 www.quadrinhoseroticos.co
 0.0.0.0 www.qualityadultblogs.com
+0.0.0.0 www.qualityporn.com
 0.0.0.0 www.rabbitscams.com # OK
 0.0.0.0 www.rabbitsreviews.com
 0.0.0.0 www.racyme.com
 0.0.0.0 www.randenaostro.cz
 0.0.0.0 www.ratemybody.com # OK
 0.0.0.0 www.reachporn.com
+0.0.0.0 www.realitypornsearch.com
 0.0.0.0 www.redlightcenter.com
 0.0.0.0 www.redlightponyville.com # OK
 0.0.0.0 www.redpornblog.com # OK
@@ -5580,6 +5572,7 @@ xxxreviews.org
 0.0.0.0 www.twiceperson.com
 0.0.0.0 www.twinkgayboysnude.com
 0.0.0.0 www.twistedblogs.com
+0.0.0.0 www.tylerspornreviews.com
 0.0.0.0 www.u18chan.com
 0.0.0.0 www.uloversdoll.com
 0.0.0.0 www.ultrasexcomics.com
@@ -5645,6 +5638,7 @@ xxxreviews.org
 0.0.0.0 www.xcomics.se
 0.0.0.0 www.xdate.lt
 0.0.0.0 www.xempire.com
+0.0.0.0 www.xfree.com # OK
 0.0.0.0 www.xftvgirls.com
 0.0.0.0 www.xgay.com.es
 0.0.0.0 www.xlovecam.com
@@ -5915,6 +5909,7 @@ xxxreviews.org
 0.0.0.0 xxxpornotuber.com
 0.0.0.0 xxxpornxvideos.com
 0.0.0.0 xxxredzone.com
+0.0.0.0 xxxreviews.org
 0.0.0.0 xxxsexzoo.com
 0.0.0.0 xxxsite.mobi
 0.0.0.0 xxxsites.org
@@ -5953,7 +5948,9 @@ xxxreviews.org
 0.0.0.0 xxxvirtualworld.com
 0.0.0.0 xxxwebchat.bpornd.com
 0.0.0.0 xxxzoo.red
+0.0.0.0 xzhentai.net # OK
 0.0.0.0 xzorra.net
+0.0.0.0 y.hentaichan.live # OK
 0.0.0.0 yaboxxx.info
 0.0.0.0 yaibaa.blogspot.com
 0.0.0.0 yamyhub.com
