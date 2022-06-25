@@ -1,5 +1,40 @@
+0.0.0.0 hd.freehentaistream.com
+0.0.0.0 worldstarhiphop.com # OK
+0.0.0.0 live.worldstarhiphop.com # OK
+0.0.0.0 www.xvideos-in.com # OK
+0.0.0.0 nhentai.uk # OK
+0.0.0.0 edoujin.net # OK
+0.0.0.0 38.242.194.12 # OK
+0.0.0.0 crotpedia.net # OK
+0.0.0.0 yoshlink.com # OK
+0.0.0.0 doujindesu.info
+0.0.0.0 shirodoujin.com # OK
+0.0.0.0 www.erocafe.net # OK
+0.0.0.0 nhentai.uk # OK
+0.0.0.0 www.xvideos.sbs # OK
+0.0.0.0 adultiq.club
+0.0.0.0 clipsexviet.xyz # OK
+0.0.0.0 sexviet69.pro # OK
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 007gayboys.com # OK
+0.0.0.0 cdn77-vid-mp4.xvideos-cdn.com # OK
+0.0.0.0 247jav.com # OK
+0.0.0.0 tav.wtf
+0.0.0.0 phimsex69.me
+0.0.0.0 sexfilmizle.one
+0.0.0.0 247jav.net
+0.0.0.0 avxxx.club
+0.0.0.0 javfull.cc
+0.0.0.0 javuncen.club
+0.0.0.0 3xfree.club
+0.0.0.0 pornfull.club
+0.0.0.0 jav3x.live
+0.0.0.0 ebalko.net
+0.0.0.0 www.hanime.me # OK
+0.0.0.0 qawa.org # OK
+0.0.0.0 allhen.online
+0.0.0.0 m-xvideos.com # OK
+0.0.0.0 animefox.org # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 100bigass.com # OK
