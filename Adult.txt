@@ -1,4 +1,7 @@
 0.0.0.0 hd.freehentaistream.com
+0.0.0.0 re05.cc
+0.0.0.0 h5.kmpp100.com
+0.0.0.0 www.kmff7.com
 0.0.0.0 worldstarhiphop.com # OK
 0.0.0.0 sweet-and-spicy.com
 0.0.0.0 www.cool-comics.com
