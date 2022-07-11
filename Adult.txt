@@ -2,6 +2,8 @@
 0.0.0.0 g60y.com
 0.0.0.0 hentaizap.com
 0.0.0.0 javlemon.com
+0.0.0.0 uuw73.com
+0.0.0.0 141jj.com
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
