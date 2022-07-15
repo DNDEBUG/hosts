@@ -1,5 +1,12 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 g60y.com
+0.0.0.0 rawgif.com
+0.0.0.0 golf-birdie.eu
+0.0.0.0 help-diplom.online
+0.0.0.0 acgntoon.com
+0.0.0.0 escortsgarotas.com
+0.0.0.0 rawlyrawls.com # OK
+0.0.0.0 prncomix.com
 0.0.0.0 ascat.porn
 0.0.0.0 hentaiblue.com
 0.0.0.0 www.valorantpornhentai.com
