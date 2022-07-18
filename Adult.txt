@@ -1,4 +1,9 @@
 0.0.0.0 000xnxx.com # OK
+0.0.0.0 musasinsta.blogspot.com
+0.0.0.0 booru.plus
+0.0.0.0 ifeelmyself.com
+0.0.0.0 www.empornium.is
+0.0.0.0 forum.thotsbay.com
 0.0.0.0 g60y.com
 0.0.0.0 rawgif.com
 0.0.0.0 golf-birdie.eu
