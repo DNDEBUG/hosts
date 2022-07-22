@@ -1,5 +1,13 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 musasinsta.blogspot.com
+0.0.0.0 chan.kemono.party # OK
+0.0.0.0 beta.kemono.party # OK
+0.0.0.0 comicless.com
+0.0.0.0 teeningallery.com
+0.0.0.0 comixzilla.com
+0.0.0.0 porno-comics.com
+0.0.0.0 hentaidvd.net
+0.0.0.0 rp.aryion.com
 0.0.0.0 booru.plus
 0.0.0.0 ifeelmyself.com
 0.0.0.0 www.empornium.is
