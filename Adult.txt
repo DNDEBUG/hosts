@@ -4,6 +4,8 @@
 0.0.0.0 beta.kemono.party # OK
 0.0.0.0 comicless.com
 0.0.0.0 teeningallery.com
+0.0.0.0 mangamammy.ru
+0.0.0.0 hmanga.org
 0.0.0.0 comixzilla.com
 0.0.0.0 porno-comics.com
 0.0.0.0 hentaidvd.net
