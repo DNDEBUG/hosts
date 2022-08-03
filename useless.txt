@@ -11,3 +11,5 @@
 0.0.0.0 i.4cdn.org
 0.0.0.0 s.4cdn.org
 0.0.0.0 faglife.com
+0.0.0.0 scrolldrop.com
+0.0.0.0 4archive.org
