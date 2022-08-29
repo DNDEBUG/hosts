@@ -13,3 +13,4 @@
 0.0.0.0 faglife.com
 0.0.0.0 scrolldrop.com
 0.0.0.0 4archive.org
+0.0.0.0 bigbookname.com
