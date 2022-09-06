@@ -1,5 +1,6 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 semyana.biz
+0.0.0.0 blog.stanis.ru
 0.0.0.0 www.seyana.video
 0.0.0.0 m.hornywombat.com
 0.0.0.0 www.profreeporno.com
