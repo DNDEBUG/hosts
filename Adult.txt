@@ -1,5 +1,7 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 www.xxcums.com
+0.0.0.0 photochki.pro
+0.0.0.0 girlsinyogapantspictures.blogspot.com
 0.0.0.0 de.twatis.com
 0.0.0.0 artbbs.st
 0.0.0.0 es.twatis.com
