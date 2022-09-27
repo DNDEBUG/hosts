@@ -1,5 +1,21 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 www.xxcums.com
+0.0.0.0 girlygirlpic.com
+0.0.0.0 en.girlygirlpic.com
+0.0.0.0 ja.girlygirlpic.com
+0.0.0.0 ko.girlygirlpic.com
+0.0.0.0 id.girlygirlpic.com
+0.0.0.0 th.girlygirlpic.com
+0.0.0.0 vi.girlygirlpic.com
+0.0.0.0 ru.girlygirlpic.com
+0.0.0.0 de.girlygirlpic.com
+0.0.0.0 fr.girlygirlpic.com
+0.0.0.0 es.girlygirlpic.com
+0.0.0.0 pt.girlygirlpic.com
+0.0.0.0 it.girlygirlpic.com
+0.0.0.0 nl.girlygirlpic.com
+0.0.0.0 pl.girlygirlpic.com
+0.0.0.0 minisuka.tv
 0.0.0.0 photochki.pro
 0.0.0.0 girlsinyogapantspictures.blogspot.com
 0.0.0.0 de.twatis.com
