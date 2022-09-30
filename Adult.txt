@@ -1,5 +1,8 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 sonohara.donmai.us
+0.0.0.0 www.saladpuncher.com
+0.0.0.0 www.karinahart.com
+
 0.0.0.0 hijiribe.donmai.us
 0.0.0.0 grognard.booru.org
 0.0.0.0 dorkbooru.com
