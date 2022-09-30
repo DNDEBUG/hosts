@@ -2,7 +2,10 @@
 0.0.0.0 sonohara.donmai.us
 0.0.0.0 www.saladpuncher.com
 0.0.0.0 www.karinahart.com
-
+0.0.0.0 www.noodledude.io
+0.0.0.0 tentaclerape.net
+0.0.0.0 musclegirlflix.com
+0.0.0.0 bowsettehentai.com
 0.0.0.0 hijiribe.donmai.us
 0.0.0.0 grognard.booru.org
 0.0.0.0 dorkbooru.com
