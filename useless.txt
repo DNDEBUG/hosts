@@ -15,3 +15,5 @@
 0.0.0.0 4archive.org
 0.0.0.0 bigbookname.com
 0.0.0.0 thechive.com
+0.0.0.0 modeland.ru
+0.0.0.0 shazoo.ru
