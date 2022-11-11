@@ -1,4 +1,5 @@
 0.0.0.0 000xnxx.com # OK
+0.0.0.0 www.srsm.gob.do
 0.0.0.0 sonohara.donmai.us
 0.0.0.0 wwv.hanime.me
 0.0.0.0 combiskonferencija.combis.hr
