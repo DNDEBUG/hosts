@@ -1,3 +1,5 @@
+# HI TAZ BOY
+
 # hosts
 Hosts block lists
 
