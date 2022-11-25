@@ -3,6 +3,8 @@
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 007gayboys.com # OK
+0.0.0.0 trah.site
+0.0.0.0 bra.barlear.ru
 0.0.0.0 1boyz.com
 0.0.0.0 1classtube.com
 0.0.0.0 1fuckmom.com
