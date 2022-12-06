@@ -1,3 +1,4 @@
+0.0.0.0 www.gfreeporn.com # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 javher.com
 0.0.0.0 0magnet.com # OK
