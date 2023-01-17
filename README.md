@@ -1,4 +1,4 @@
-# HI TAZ BOY
+# YES THIS IS DANI's HOST FILE
 
 # hosts
 Hosts block lists
