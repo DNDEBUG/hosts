@@ -1,4 +1,4 @@
-# YES THIS IS DANI's HOST FILE
+# YES THIS IS DANI'S HOST FILE
 
 # hosts
 Hosts block lists
