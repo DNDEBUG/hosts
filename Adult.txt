@@ -3,6 +3,7 @@
 0.0.0.0 www.lady-sonia.com # OK
 0.0.0.0 videosxxxsupertube.blogspot.com
 0.0.0.0 v3.redgifs.com
+0.0.0.0 thecourtofkingcrude.wordpress.com
 0.0.0.0 candidgirls.io
 0.0.0.0 www.cloobezsexy.com
 0.0.0.0 batotoo.com
