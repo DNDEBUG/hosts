@@ -1,23 +1,7 @@
-0.0.0.0 www.gfreeporn.com # OK
-0.0.0.0 tour.lady-sonia.com # OK
-0.0.0.0 www.lady-sonia.com # OK
-0.0.0.0 videosxxxsupertube.blogspot.com
-0.0.0.0 v3.redgifs.com
-0.0.0.0 thecourtofkingcrude.wordpress.com
-0.0.0.0 hentaibooty.com
-0.0.0.0 candidgirls.io
-0.0.0.0 www.cloobezsexy.com
-0.0.0.0 hentaidestiny.com
-0.0.0.0 batotoo.com
-0.0.0.0 hentaiqueens.com
-0.0.0.0 hanimehentai.tv
 0.0.0.0 0cili.com # OK
-0.0.0.0 javher.com
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 007gayboys.com # OK
-0.0.0.0 trah.site
-0.0.0.0 bra.barlear.ru
 0.0.0.0 1boyz.com
 0.0.0.0 1classtube.com
 0.0.0.0 1fuckmom.com
@@ -478,6 +462,7 @@
 0.0.0.0 baraag.net
 0.0.0.0 bareshemale.com
 0.0.0.0 baristatube.com
+0.0.0.0 batotoo.com
 0.0.0.0 bbc-anal.com
 0.0.0.0 bbcporn.net
 0.0.0.0 bbt.jerked.com
@@ -708,6 +693,7 @@
 0.0.0.0 br.xhamster.desi
 0.0.0.0 br.xhplanet8.com
 0.0.0.0 br.xhwide1.com
+0.0.0.0 bra.barlear.ru
 0.0.0.0 bracestube.com
 0.0.0.0 brasileiro.wtf
 0.0.0.0 bratperversions.com
@@ -773,6 +759,7 @@
 0.0.0.0 camstube.org
 0.0.0.0 camsvids.tv
 0.0.0.0 camteens.cf
+0.0.0.0 candidgirls.io
 0.0.0.0 candidteens.top
 0.0.0.0 candycumcity.com
 0.0.0.0 candygirls.cc
@@ -2034,6 +2021,7 @@
 0.0.0.0 handjobs.adulthotblogs.com
 0.0.0.0 handyhardcore.com
 0.0.0.0 hanime.xxx
+0.0.0.0 hanimehentai.tv
 0.0.0.0 hanjob.info
 0.0.0.0 happy-porn.com
 0.0.0.0 happybooty.com
@@ -2100,6 +2088,7 @@
 0.0.0.0 hentai.pro
 0.0.0.0 hentai.xxx
 0.0.0.0 hentaiblue.com
+0.0.0.0 hentaibooty.com
 0.0.0.0 hentaic.net
 0.0.0.0 hentaicentro.com
 0.0.0.0 hentaichan.live # OK
@@ -2107,6 +2096,7 @@
 0.0.0.0 hentaicollective.com
 0.0.0.0 hentaicomics18.xyz
 0.0.0.0 hentaicovid.com # OK
+0.0.0.0 hentaidestiny.com
 0.0.0.0 hentaidirectory.org
 0.0.0.0 hentaidock.com
 0.0.0.0 hentaidvd.net
@@ -2135,6 +2125,7 @@
 0.0.0.0 hentaipornweb.com
 0.0.0.0 hentaiprn.com
 0.0.0.0 hentaiprobe.com
+0.0.0.0 hentaiqueens.com
 0.0.0.0 hentairank.supertop-100.com
 0.0.0.0 hentairead.org # OK
 0.0.0.0 hentaireviews.moe
@@ -2425,6 +2416,7 @@
 0.0.0.0 javhdfilms.com
 0.0.0.0 javhdmost.com
 0.0.0.0 javhdworld.com
+0.0.0.0 javher.com
 0.0.0.0 javhub.com
 0.0.0.0 javlemon.com
 0.0.0.0 javmodel.com
@@ -4202,6 +4194,7 @@
 0.0.0.0 theboobsblog.com # OK
 0.0.0.0 thecamwankers.com
 0.0.0.0 thecelebnude.com
+0.0.0.0 thecourtofkingcrude.wordpress.com
 0.0.0.0 thefaphour.blogspot.com # OK
 0.0.0.0 thefappening2015.com
 0.0.0.0 thegayporn.pro
@@ -4306,6 +4299,7 @@
 0.0.0.0 tour.indianbabeshanaya.com
 0.0.0.0 tour.javhub.com
 0.0.0.0 tour.jizzorgy.com
+0.0.0.0 tour.lady-sonia.com # OK
 0.0.0.0 tour.str8togay.com
 0.0.0.0 townofsins.com
 0.0.0.0 toyingmature.com
@@ -4314,6 +4308,7 @@
 0.0.0.0 tr.xhamster.desi
 0.0.0.0 trafficholder.com
 0.0.0.0 trafficoxtop.com
+0.0.0.0 trah.site
 0.0.0.0 trannycamshow.blogspot.com
 0.0.0.0 trannyfuckvideo.com
 0.0.0.0 trannyxxxtubes.com
@@ -4459,6 +4454,7 @@
 0.0.0.0 ute.booru.org
 0.0.0.0 uuw73.com
 0.0.0.0 uz.yasex.net # OK
+0.0.0.0 v3.redgifs.com
 0.0.0.0 vaesark.blogspot.com
 0.0.0.0 vaginalstimulators101.blogspot.com
 0.0.0.0 valsharess.com
@@ -4505,6 +4501,7 @@
 0.0.0.0 videosgay1.com
 0.0.0.0 videosmadeathome.com
 0.0.0.0 videosxxx.icu
+0.0.0.0 videosxxxsupertube.blogspot.com
 0.0.0.0 videoszoofilia.net # OK
 0.0.0.0 videoxxxclub.com
 0.0.0.0 videoxxxlive.com
@@ -4944,6 +4941,7 @@
 0.0.0.0 www.clarefonda.net
 0.0.0.0 www.classicpornscenes.com
 0.0.0.0 www.clips4sale.com
+0.0.0.0 www.cloobezsexy.com
 0.0.0.0 www.clubpaigeturnah.com
 0.0.0.0 www.cluset.com
 0.0.0.0 www.coaching-et-formation-coaching.eu
@@ -5164,6 +5162,7 @@
 0.0.0.0 www.gayxlive.com
 0.0.0.0 www.gethornynow.com
 0.0.0.0 www.getsexblogs.com
+0.0.0.0 www.gfreeporn.com # OK
 0.0.0.0 www.giantsextube.com
 0.0.0.0 www.gifgoo.com
 0.0.0.0 www.gigapic.com # OK
@@ -5371,6 +5370,7 @@
 0.0.0.0 www.kmff7.com
 0.0.0.0 www.ky04.app
 0.0.0.0 www.kzmlspq.cn
+0.0.0.0 www.lady-sonia.com # OK
 0.0.0.0 www.ladyboy-ladyboy.com
 0.0.0.0 www.ladyboycams.com
 0.0.0.0 www.ladyboygold.com
