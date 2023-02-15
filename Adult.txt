@@ -4617,7 +4617,6 @@
 0.0.0.0 wlwmanifest.xml
 0.0.0.0 wnacg.org # OK
 0.0.0.0 wonderwank.com
-0.0.0.0 wordpress.org
 0.0.0.0 world3d.biz
 0.0.0.0 worldporncomix.com
 0.0.0.0 worldstarhiphop.com # OK
