@@ -1,6 +1,9 @@
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
+0.0.0.0 www.irontechdoll.jp
+0.0.0.0 www.sexdollrealistic.com
+0.0.0.0 www.irontechdoll.com
 0.0.0.0 007gayboys.com # OK
 0.0.0.0 1boyz.com
 0.0.0.0 1classtube.com
