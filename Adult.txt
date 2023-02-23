@@ -2,6 +2,7 @@
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 www.irontechdoll.jp
+0.0.0.0 pornpen.ai
 0.0.0.0 www.sexdollrealistic.com
 0.0.0.0 www.irontechdoll.com
 0.0.0.0 007gayboys.com # OK
