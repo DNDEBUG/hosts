@@ -2,7 +2,7 @@
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 www.irontechdoll.jp
-0.0.0.0 pornpen.ai
+0.0.0.0 pornpen.ai # OK
 0.0.0.0 www.sexdollrealistic.com
 0.0.0.0 www.irontechdoll.com
 0.0.0.0 007gayboys.com # OK
@@ -4257,7 +4257,42 @@
 0.0.0.0 tinyteens-tube.com
 0.0.0.0 titocean.com
 0.0.0.0 titology.com
-0.0.0.0 tits3.com
+0.0.0.0 hussiepass.com
+0.0.0.0 tits3.com # OK
+0.0.0.0 ar.sublimecam.com # OK
+0.0.0.0 bg.sublimecam.com # OK
+0.0.0.0 cn.sublimecam.com # OK
+0.0.0.0 cz.sublimecam.com # OK
+0.0.0.0 de.sublimecam.com # OK
+0.0.0.0 dk.sublimecam.com # OK
+0.0.0.0 ee.sublimecam.com # OK
+0.0.0.0 en.sublimecam.com # OK
+0.0.0.0 es.sublimecam.com # OK
+0.0.0.0 fi.sublimecam.com # OK
+0.0.0.0 fr.sublimecam.com # OK
+0.0.0.0 gr.sublimecam.com # OK
+0.0.0.0 hr.sublimecam.com # OK
+0.0.0.0 hu.sublimecam.com # OK
+0.0.0.0 il.sublimecam.com # OK
+0.0.0.0 in.sublimecam.com # OK
+0.0.0.0 it.sublimecam.com # OK
+0.0.0.0 jp.sublimecam.com # OK
+0.0.0.0 kr.sublimecam.com # OK
+0.0.0.0 lt.sublimecam.com # OK
+0.0.0.0 lv.sublimecam.com # OK
+0.0.0.0 mk.sublimecam.com # OK
+0.0.0.0 nl.sublimecam.com # OK
+0.0.0.0 no.sublimecam.com # OK
+0.0.0.0 pl.sublimecam.com # OK
+0.0.0.0 pt.sublimecam.com # OK
+0.0.0.0 ro.sublimecam.com # OK
+0.0.0.0 rs.sublimecam.com # OK
+0.0.0.0 rt.sublimecam.com # OK
+0.0.0.0 se.sublimecam.com # OK
+0.0.0.0 si.sublimecam.com # OK
+0.0.0.0 sk.sublimecam.com # OK
+0.0.0.0 tr.sublimecam.com # OK
+0.0.0.0 ua.sublimecam.com # OK
 0.0.0.0 titshape.tumblr.com
 0.0.0.0 titsmature.com
 0.0.0.0 tittiporn.com
@@ -4630,7 +4665,6 @@
 0.0.0.0 wowpornlist.xyz
 0.0.0.0 wowpornmovies.com
 0.0.0.0 wowpornz.com
-0.0.0.0 wozi.cc
 0.0.0.0 wtfpeople.com
 0.0.0.0 ww1.3dx-games.com
 0.0.0.0 ww1.chinababe.net
@@ -6443,7 +6477,7 @@
 0.0.0.0 yaoimoviearchive.com
 0.0.0.0 yasex.net # OK
 0.0.0.0 yboys.net
-0.0.0.0 ychan.net
+0.0.0.0 ychan.net # OK
 0.0.0.0 yellowpron.com
 0.0.0.0 yespornclips.com
 0.0.0.0 yespornpleas.online
@@ -6557,4 +6591,4 @@
 0.0.0.0 zvraceny.cz
 0.0.0.0 zweiporn.com
 0.0.0.0 zxvideos.net
-0.0.0.0 секс.tv
+0.0.0.0 секс.tv # OK
