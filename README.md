@@ -1,5 +1,3 @@
-# YES THIS IS DANI'S HOST FILE
-
 # hosts
 Hosts block lists
 
