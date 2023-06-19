@@ -1,14 +1,16 @@
+0.0.0.0 faponic.com # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 hmvmania.com # OK
-0.0.0.0 www.irontechdoll.jp
+0.0.0.0 www.irontechdoll.jp # OK
 0.0.0.0 pornpen.ai # OK
-0.0.0.0 www.sexdollrealistic.com
-0.0.0.0 c3.kemono.party
-0.0.0.0 www.irontechdoll.com
+0.0.0.0 www.sexdollrealistic.com # OK
+0.0.0.0 c3.kemono.party # OK
+0.0.0.0 www.irontechdoll.com # OK
+0.0.0.0 www.sigafun.com # OK
 0.0.0.0 007gayboys.com # OK
-0.0.0.0 1boyz.com
+0.0.0.0 1boyz.com # OK
 0.0.0.0 1classtube.com
 0.0.0.0 1fuckmom.com
 0.0.0.0 1hentai.org # OK
