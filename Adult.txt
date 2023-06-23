@@ -1,4 +1,7 @@
 0.0.0.0 faponic.com # OK
+0.0.0.0 kemono.su # OK
+0.0.0.0 chan.kemono.su # OK
+0.0.0.0 coomer.su # OK
 0.0.0.0 xwwx.com # OK
 0.0.0.0 cosxuxi.club # OK
 0.0.0.0 0cili.com # OK
