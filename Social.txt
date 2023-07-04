@@ -1,3 +1,4 @@
 0.0.0.0 mobile.twitter.com
 0.0.0.0 vk.com
 0.0.0.0 m.vk.com
+0.0.0.0 greatly.pro
