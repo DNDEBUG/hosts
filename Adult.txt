@@ -467,7 +467,7 @@
 0.0.0.0 babetots.com
 0.0.0.0 babeuniversum.com
 0.0.0.0 baddaddyxxx.blogspot.com
-0.0.0.0 badfolder.com
+0.0.0.0 badfolder.com # OK
 0.0.0.0 badoinkvr.com
 0.0.0.0 badteensporn.net
 0.0.0.0 badwolfart.tumblr.com
@@ -2190,7 +2190,7 @@
 0.0.0.0 hitmanx3z.blogspot.fr
 0.0.0.0 hitmanx3z.blogspot.nl
 0.0.0.0 hizzacked.com
-0.0.0.0 hmanga.org
+0.0.0.0 hmanga.org # OK
 0.0.0.0 hmoegirl.com # OK
 0.0.0.0 hogtiedtube.com
 0.0.0.0 holybackshots.com
@@ -3005,7 +3005,7 @@
 0.0.0.0 negocioadulto.com
 0.0.0.0 negrasdesnudasxxx.com
 0.0.0.0 nejlepsipecko.cz
-0.0.0.0 netcum.net
+0.0.0.0 netcum.net # OK
 0.0.0.0 netmadruga.blogspot.com
 0.0.0.0 netvideogirls.com
 0.0.0.0 new-jav.net
@@ -3151,14 +3151,12 @@
 0.0.0.0 optinright.com
 0.0.0.0 orientalhardcore.com
 0.0.0.0 originalfetish.com
-0.0.0.0 orzqwq.com
+0.0.0.0 orzqwq.com # OK
 0.0.0.0 otcoc.net # OK
 0.0.0.0 ottawa.xgirl.ca
 0.0.0.0 ourdollcommunity.com
 0.0.0.0 ourdollcommunity.com
-0.0.0.0 out.php?
 0.0.0.0 ovacovid.com # OK
-0.0.0.0 owohho.com
 0.0.0.0 oxpassx.bangbros1.com
 0.0.0.0 oxy-shop.com
 0.0.0.0 ozporno.com
@@ -3690,7 +3688,7 @@
 0.0.0.0 russianpussy.net
 0.0.0.0 rusvideo.net
 0.0.0.0 ryanrieslingclub.blogspot.com
-0.0.0.0 rylskyart.com
+0.0.0.0 rylskyart.com # OK
 0.0.0.0 s06.flagcounter.com
 0.0.0.0 s3x.monster
 0.0.0.0 s7.addthis.com
@@ -4103,7 +4101,7 @@
 0.0.0.0 tatojimmy1.blogspot.com
 0.0.0.0 tatojimmy.blogspot.com
 0.0.0.0 tattooedtube.com
-0.0.0.0 tav.wtf
+0.0.0.0 tav.wtf # OK
 0.0.0.0 tazzporn.com
 0.0.0.0 tbib.org
 0.0.0.0 tbiet.blogspot.fr
@@ -5249,7 +5247,7 @@
 0.0.0.0 www.gulagay.com
 0.0.0.0 www.guygearstore.com # OK
 0.0.0.0 www.guysjackingoff.org
-0.0.0.0 www.hacg.cat
+0.0.0.0 www.hacg.cat # OK
 0.0.0.0 www.hanime.me # OK
 0.0.0.0 www.hardcategories.com
 0.0.0.0 www.hardcoresexpro.org
