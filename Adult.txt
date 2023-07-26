@@ -1,4 +1,10 @@
 0.0.0.0 faponic.com # OK
+0.0.0.0 thebrittneytonee.com # OK
+0.0.0.0 www.truemyracle.com # OK
+0.0.0.0 www4.bestjavporn.com # OK
+0.0.0.0 www.kawaiidetective.com # OK
+0.0.0.0 hotlegsinlove.com # OK
+0.0.0.0 www.cloudhotzgirl.com # OK
 0.0.0.0 www.tokyomotion.net
 0.0.0.0 titsintops.com # OK
 0.0.0.0 rule34hentai.net # OK
