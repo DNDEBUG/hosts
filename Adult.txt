@@ -6977,4 +6977,4 @@
 0.0.0.0 zvraceny.cz
 0.0.0.0 zweiporn.com
 0.0.0.0 zxvideos.net
-0.0.0.0 ÑÐµÐºÑ.tv # OK
+0.0.0.0 секс.tv # OK
