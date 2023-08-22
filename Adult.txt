@@ -1,6 +1,7 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 ai-hentai.net # OK
 0.0.0.0 thepornolab.com # OK
+0.0.0.0 db.bepis.moe # OK
 0.0.0.0 aibooru.online # OK
 0.0.0.0 r34hub.com # OK
 0.0.0.0 guro.cx # OK
