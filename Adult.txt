@@ -2,6 +2,12 @@
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 007gayboys.com
+0.0.0.0 bunkrr.su # OK
+0.0.0.0 fanslyleaked.com # OK
+0.0.0.0 influencerchicks.com # OK
+0.0.0.0 thothub.ch # OK
+0.0.0.0 www.toprq.com 
+0.0.0.0 vipthots.com # OK
 0.0.0.0 1boyz.com
 0.0.0.0 1boyz.com # OK
 0.0.0.0 1classtube.com # OK
