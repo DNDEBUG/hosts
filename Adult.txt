@@ -1,7 +1,7 @@
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 000xnxx.com # OK
-0.0.0.0  sexy.ai
+0.0.0.0 sexy.ai # OK
 0.0.0.0 007gayboys.com
 0.0.0.0 bunkrr.su # OK
 0.0.0.0 fanslyleaked.com # OK
