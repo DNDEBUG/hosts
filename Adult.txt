@@ -1,4 +1,7 @@
 0.0.0.0 000xnxx.com # OK
+0.0.0.0 thothd.to # OK
+0.0.0.0 wildskirts.com # OK
+0.0.0.0 chickipedia.fandom.com # OK
 0.0.0.0 007gayboys.com
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
