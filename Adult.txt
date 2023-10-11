@@ -1,4 +1,5 @@
 0.0.0.0 000xnxx.com # OK
+0.0.0.0 hkjfans.com # OK
 0.0.0.0 thothd.to # OK
 0.0.0.0 www.wankbus.com # OK
 0.0.0.0 wildskirts.com # OK
