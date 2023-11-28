@@ -2,6 +2,7 @@
 0.0.0.0 jav.rip # OK
 0.0.0.0 javpi.com # OK
 0.0.0.0 javtiful.com # OK
+0.0.0.0 javhoc.com # OK
 0.0.0.0 avtik.com # OK
 0.0.0.0 javpog.com # OK
 0.0.0.0 javmvp.com # OK
