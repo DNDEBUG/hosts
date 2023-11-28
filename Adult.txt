@@ -1,5 +1,6 @@
 0.0.0.0 000xnxx.com # OK
 0.0.0.0 jav.rip # OK
+0.0.0.0 javpi.com # OK
 0.0.0.0 javtiful.com # OK
 0.0.0.0 avtik.com # OK
 0.0.0.0 javpog.com # OK
