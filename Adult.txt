@@ -1,4 +1,3 @@
-0.0.0.0 000xnxx.com # OK
 0.0.0.0 hentaienvy.com # OK
 0.0.0.0 jav.rip # OK
 0.0.0.0 javpi.com # OK
@@ -230,7 +229,6 @@
 0.0.0.0 aihentai.co # OK
 0.0.0.0 aikan667.com # OK
 0.0.0.0 aitoda.blogspot.com
-0.0.0.0 alekatalog.pl
 0.0.0.0 alfahunter.blogspot.com.br
 0.0.0.0 alimentola.info
 0.0.0.0 alixlovell.blogspot.com
@@ -5137,7 +5135,8 @@
 0.0.0.0 www.casinoschule.com
 0.0.0.0 www.casinostadt.com
 0.0.0.0 www.celebrityclips.top
-0.0.0.0 www.ceskeporno.sk
+0.0.0.0 ceskeporno.cz # OK
+0.0.0.0 www.ruzovyslon.cz # OK
 0.0.0.0 www.cfnmteens.com
 0.0.0.0 www.chaturbate-69.com
 0.0.0.0 www.chaturbate.llc
@@ -5395,7 +5394,7 @@
 0.0.0.0 www.gimmeadult.com
 0.0.0.0 www.girlnude.link
 0.0.0.0 www.girlslesbian.org
-0.0.0.0 www.girlsofdesire.org
+0.0.0.0 www.girlsofdesire.org # OK
 0.0.0.0 www.girlsonlylive.com
 0.0.0.0 www.girlstryanal.com
 0.0.0.0 www.glamino.com # OK
@@ -5478,7 +5477,7 @@
 0.0.0.0 www.histats.com
 0.0.0.0 www.hmporn.net # OK
 0.0.0.0 www.home-adult.com
-0.0.0.0 www.homealonemilfs.com
+0.0.0.0 www.homealonemilfs.com # OK
 0.0.0.0 www.homemadesex.me
 0.0.0.0 www.homemoviestube.com
 0.0.0.0 www.homepornking.com # OK
