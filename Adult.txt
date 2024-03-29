@@ -1,5 +1,6 @@
 0.0.0.0 sexyforums.com # OK
 0.0.0.0 xwwx.com
+0.0.0.0 cosxuxi.club
 0.0.0.0 hentaienvy.com # OK
 0.0.0.0 jav.rip # OK
 0.0.0.0 javpi.com # OK
