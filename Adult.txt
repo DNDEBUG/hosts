@@ -1,4 +1,10 @@
 0.0.0.0 sexyforums.com # OK
+0.0.0.0 www.createaishemale.com # OK
+0.0.0.0 www.createaiasian.com # OK
+0.0.0.0 www.createporn.com # OK
+0.0.0.0 www.createhentai.com # OK
+0.0.0.0 www.createaigayporn.com # OK
+0.0.0.0 www.createaifurry.com # OK
 0.0.0.0 xwwx.com
 0.0.0.0 www.topfapgirlspics.com # OK
 0.0.0.0 bunkr-albums.io # OK
