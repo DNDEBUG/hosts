@@ -3,6 +3,7 @@
 0.0.0.0 soulcaliburhentai.net # OK
 0.0.0.0 pablocomics.com # OK
 0.0.0.0 dangerzonecomics.org # OK
+0.0.0.0 mobians.ai # OK
 0.0.0.0 svscomics-com.yqlog.com # OK
 0.0.0.0 lhentai.com # OK
 0.0.0.0 hentai-acg.com # OK
