@@ -1,44 +1,3 @@
-0.0.0.0 fap-nation.org # OK
-0.0.0.0 tone-rs.com # OK
-0.0.0.0 yiffverse.com # OK
-0.0.0.0 stupaul.net # OK
-0.0.0.0 leaks.photos # OK
-0.0.0.0 www.createaifurry.com # OK
-0.0.0.0 mlondoll.com # OK
-0.0.0.0 porndead.com # OK
-0.0.0.0 javpoint.com # OK
-0.0.0.0 javsean.com # OK
-0.0.0.0 alice-ai.com # OK
-0.0.0.0 javsubindo.best # OK
-0.0.0.0 missav.ws # OK
-0.0.0.0 jav.sb # OK
-0.0.0.0 invisionfree.com # OK
-0.0.0.0 pornmove.net # OK
-0.0.0.0 lmoniesworld.com # OK
-0.0.0.0 nudebase.com # OK
-0.0.0.0 niyaniya.moe # OK
-0.0.0.0 thepornjoy.org # OK
-0.0.0.0 soulcaliburhentai.net # OK
-0.0.0.0 pablocomics.com # OK
-0.0.0.0 dangerzonecomics.org # OK
-0.0.0.0 mobians.ai # OK
-0.0.0.0 svscomics-com.yqlog.com # OK
-0.0.0.0 lhentai.com # OK
-0.0.0.0 hentai-acg.com # OK
-0.0.0.0 titsintops.com  # OK
-0.0.0.0 pururin.me # OK
-0.0.0.0 jrants.com # OK
-0.0.0.0 mrskoriste.com # OK
-0.0.0.0 x1.h-chan.me # OK
-0.0.0.0 xx-xgirls.icu # OK
-0.0.0.0 a.xxxlibz.com # OK
-0.0.0.0 fapfappy.com # OK
-0.0.0.0 famedones.com # OK 
-0.0.0.0 crptm.livejasmin.com # OK
-0.0.0.0 best.anaispopyphotographe.fr # OK
-0.0.0.0 dreamgf.ai # OK
-0.0.0.0 ehentai.ai # OK
-0.0.0.0 dreambf.ai # OK
 0.0.0.0 007gayboys.com
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
@@ -240,6 +199,7 @@
 0.0.0.0 agenthot.com
 0.0.0.0 agenthun.com
 0.0.0.0 ageofpron.com
+0.0.0.0 agn.ph
 0.0.0.0 ahmefuck.com
 0.0.0.0 ahorsecock.com
 0.0.0.0 ahswingerporno.com
@@ -250,6 +210,7 @@
 0.0.0.0 aikan667.com # OK
 0.0.0.0 aitoda.blogspot.com
 0.0.0.0 alfahunter.blogspot.com.br
+0.0.0.0 alice-ai.com # OK
 0.0.0.0 alimentola.info
 0.0.0.0 alixlovell.blogspot.com
 0.0.0.0 all-4porn.com
@@ -558,6 +519,7 @@
 0.0.0.0 benjaminhulett.com
 0.0.0.0 best-free-porn-sites.com
 0.0.0.0 best-mature-tube.com
+0.0.0.0 best.anaispopyphotographe.fr # OK
 0.0.0.0 bestadultaffiliateprogramx.blogspot.com
 0.0.0.0 bestadultpornblogs.com
 0.0.0.0 bestassparade.com
@@ -1341,6 +1303,7 @@
 0.0.0.0 creativeporn.com # OK
 0.0.0.0 crossdresserescorts.blogspot.com
 0.0.0.0 crotpedia.net # OK
+0.0.0.0 crptm.livejasmin.com # OK
 0.0.0.0 cruelfemales.blogspot.com
 0.0.0.0 cruisingmad.com
 0.0.0.0 cs.scoregroup.com
@@ -1427,6 +1390,7 @@
 0.0.0.0 damn3dxart.blogspot.com.ar
 0.0.0.0 damochki.net
 0.0.0.0 danavespoli.com
+0.0.0.0 dangerzonecomics.org # OK
 0.0.0.0 dankwank.net
 0.0.0.0 dannychoo.com
 0.0.0.0 danylovestwinks.nibblebit.com
@@ -1529,6 +1493,8 @@
 0.0.0.0 dragonballhentai.vip
 0.0.0.0 dragonhentai.net
 0.0.0.0 drbizzaro.com
+0.0.0.0 dreambf.ai # OK
+0.0.0.0 dreamgf.ai # OK
 0.0.0.0 dreamsexworld.com
 0.0.0.0 drivebygirls.com
 0.0.0.0 driveprontube.com
@@ -1701,6 +1667,7 @@
 0.0.0.0 fakecelebritypornpicsblog.blogspot.com
 0.0.0.0 fakepussytoy.com
 0.0.0.0 faketitsamateurs.bdsmlr.com # OK
+0.0.0.0 famedones.com # OK 
 0.0.0.0 family-inza.blogspot.com
 0.0.0.0 family.nudist-camp.info
 0.0.0.0 familyporntubes.com
@@ -1713,6 +1680,7 @@
 0.0.0.0 fantasyerotic.net
 0.0.0.0 fantasyhd.com
 0.0.0.0 fap-guru.day
+0.0.0.0 fap-nation.org # OK
 0.0.0.0 fap.bar
 0.0.0.0 fap.thefappening.one
 0.0.0.0 fap.topnudemalecelebs.com
@@ -1724,6 +1692,7 @@
 0.0.0.0 fapdude.com
 0.0.0.0 fapello.com
 0.0.0.0 fapetite.com
+0.0.0.0 fapfappy.com # OK
 0.0.0.0 fapforfun.net
 0.0.0.0 faponic.com # OK
 0.0.0.0 fappenings.com
@@ -2174,6 +2143,7 @@
 0.0.0.0 helltaker.booru.org
 0.0.0.0 help-diplom.online
 0.0.0.0 henley.cloud-i-girl.com
+0.0.0.0 hentai-acg.com # OK
 0.0.0.0 hentai-ani.me
 0.0.0.0 hentai-foundry.com
 0.0.0.0 hentai-game.com # OK
@@ -2486,6 +2456,7 @@
 0.0.0.0 inthevip.com
 0.0.0.0 intimlife5.com # OK
 0.0.0.0 intrigue3d.com
+0.0.0.0 invisionfree.com # OK
 0.0.0.0 ipadsex.mobi
 0.0.0.0 ipornlist.com
 0.0.0.0 ipornoffer.com
@@ -2535,6 +2506,7 @@
 0.0.0.0 jav.nu # OK
 0.0.0.0 jav.red # OK
 0.0.0.0 jav.rip # OK
+0.0.0.0 jav.sb # OK
 0.0.0.0 jav1.guru # OK
 0.0.0.0 jav3x.live
 0.0.0.0 jav4tv.com
@@ -2568,10 +2540,13 @@
 0.0.0.0 javonline.watch
 0.0.0.0 javpi.com # OK
 0.0.0.0 javpog.com # OK
+0.0.0.0 javpoint.com # OK
 0.0.0.0 javporn.tv
 0.0.0.0 javpro.cc
 0.0.0.0 javpub.me
+0.0.0.0 javsean.com # OK
 0.0.0.0 javshujin.com
+0.0.0.0 javsubindo.best # OK
 0.0.0.0 javtiful.com # OK
 0.0.0.0 javuncen.club
 0.0.0.0 javvideo.xyz
@@ -2618,6 +2593,7 @@
 0.0.0.0 jpavxxx.com
 0.0.0.0 jpegworld.com
 0.0.0.0 jpg4.biz
+0.0.0.0 jrants.com # OK
 0.0.0.0 jrgirls.pw
 0.0.0.0 jrland.pw
 0.0.0.0 juggrealm.com
@@ -2763,6 +2739,7 @@
 0.0.0.0 leakedxxx.club
 0.0.0.0 leakers.tv
 0.0.0.0 leaknudes.com
+0.0.0.0 leaks.photos # OK
 0.0.0.0 leakxxx.com
 0.0.0.0 leakzone.net
 0.0.0.0 learnxxx.com
@@ -2780,6 +2757,7 @@
 0.0.0.0 lewdvrgames.com
 0.0.0.0 lewdzone.com # OK
 0.0.0.0 lgbtq.games
+0.0.0.0 lhentai.com # OK
 0.0.0.0 libertinade.com
 0.0.0.0 life-likedoll.com # OK
 0.0.0.0 lifepornstories.com # OK
@@ -2823,6 +2801,7 @@
 0.0.0.0 liztube.com
 0.0.0.0 llshort.com
 0.0.0.0 lm1.motherless.com
+0.0.0.0 lmoniesworld.com # OK
 0.0.0.0 loasex.com
 0.0.0.0 localxlist.org
 0.0.0.0 lolatv.com
@@ -3017,9 +2996,11 @@
 0.0.0.0 million-movies.com
 0.0.0.0 minisuka.tv
 0.0.0.0 mir-porno.one
+0.0.0.0 missav.ws # OK
 0.0.0.0 missingtoofff.com
 0.0.0.0 missuntamed.com
 0.0.0.0 mk.sublimecam.com # OK
+0.0.0.0 mlondoll.com # OK
 0.0.0.0 mmballbusting.booru.org
 0.0.0.0 mmda.booru.org
 0.0.0.0 mob.fapzenba.com
@@ -3065,6 +3046,7 @@
 0.0.0.0 mrgays.com
 0.0.0.0 mrpornlive.com
 0.0.0.0 mrpornosexe.com
+0.0.0.0 mrskoriste.com # OK
 0.0.0.0 msboobs.com
 0.0.0.0 muchporn.space
 0.0.0.0 mud-city.blogspot.com
@@ -3183,6 +3165,7 @@
 0.0.0.0 nikkibenzclub.blogspot.com
 0.0.0.0 nippleclampstube.com
 0.0.0.0 nips.com
+0.0.0.0 niyaniya.moe # OK
 0.0.0.0 nl.cuteladypic.com
 0.0.0.0 nl.girlygirlpic.com
 0.0.0.0 nl.qgirlz.com
@@ -3219,6 +3202,7 @@
 0.0.0.0 nude-moon.net # OK
 0.0.0.0 nude.hu
 0.0.0.0 nudeaward.com
+0.0.0.0 nudebase.com # OK
 0.0.0.0 nudebeachpussy.com
 0.0.0.0 nudeblogz.com
 0.0.0.0 nudeeroticpics.com
@@ -3279,6 +3263,7 @@
 0.0.0.0 omastube.mobi
 0.0.0.0 omatures.com
 0.0.0.0 omeglevideos.net
+0.0.0.0 onacloud.ru # OK
 0.0.0.0 onanthebarbarian.com
 0.0.0.0 one.cam
 0.0.0.0 onegai.in # OK
@@ -3316,6 +3301,7 @@
 0.0.0.0 p.yaoihavenreborn.com
 0.0.0.0 p0rn.video
 0.0.0.0 p720.net
+0.0.0.0 pablocomics.com # OK
 0.0.0.0 pacinosadventures.com
 0.0.0.0 paidporn.com
 0.0.0.0 paidpornsites.com
@@ -3466,6 +3452,7 @@
 0.0.0.0 porndabster.com
 0.0.0.0 porndata888.com
 0.0.0.0 pornday.net
+0.0.0.0 porndead.com # OK
 0.0.0.0 porndeals.com
 0.0.0.0 porndig.pro
 0.0.0.0 porndora.com # OK
@@ -3531,6 +3518,7 @@
 0.0.0.0 pornmate.tv
 0.0.0.0 pornmd.online
 0.0.0.0 pornmomfree.com
+0.0.0.0 pornmove.net # OK
 0.0.0.0 pornmovies.fun
 0.0.0.0 pornmovies2.me
 0.0.0.0 pornmovies2.net
@@ -3701,6 +3689,7 @@
 0.0.0.0 pureloli-hentai.net # OK
 0.0.0.0 puremature.com
 0.0.0.0 puretaboohd.com
+0.0.0.0 pururin.me # OK
 0.0.0.0 pururin.to
 0.0.0.0 pusooy.net
 0.0.0.0 puss8.com
@@ -4024,6 +4013,7 @@
 0.0.0.0 sexyfuck.net
 0.0.0.0 sexyfuckgames.com
 0.0.0.0 sexygirlsex.net
+0.0.0.0 sexyhentaistuff.blogspot.com
 0.0.0.0 sexyjapan2001.dtiblog.com
 0.0.0.0 sexykittenporn.com
 0.0.0.0 sexymature69.com
@@ -4139,6 +4129,7 @@
 0.0.0.0 solariswiki.net
 0.0.0.0 sonohara.donmai.us
 0.0.0.0 sonovinho.com
+0.0.0.0 soulcaliburhentai.net # OK
 0.0.0.0 soundgasm.net
 0.0.0.0 south-plus.net
 0.0.0.0 spac1.org # OK
@@ -4225,6 +4216,7 @@
 0.0.0.0 strutter79.blogspot.com
 0.0.0.0 studentspornmovies.mobi
 0.0.0.0 studio66tv.com
+0.0.0.0 stupaul.net # OK
 0.0.0.0 subjav.tv
 0.0.0.0 submitblogs.com
 0.0.0.0 subscribestar.adult
@@ -4245,6 +4237,7 @@
 0.0.0.0 suze.net
 0.0.0.0 suzymovs.com
 0.0.0.0 sv.xhamster.desi
+0.0.0.0 svscomics-com.yqlog.com # OK
 0.0.0.0 svscomics.club
 0.0.0.0 svscomics.com
 0.0.0.0 svsgames.org
@@ -4423,6 +4416,7 @@
 0.0.0.0 theporngay.com
 0.0.0.0 theporngod.com
 0.0.0.0 thepornguy.org
+0.0.0.0 thepornjoy.org # OK
 0.0.0.0 thepornlinks.com
 0.0.0.0 thepornlist.net
 0.0.0.0 thepornmap.com
@@ -4460,6 +4454,7 @@
 0.0.0.0 titology.com
 0.0.0.0 tits3.com # OK
 0.0.0.0 titshape.tumblr.com
+0.0.0.0 titsintops.com  # OK
 0.0.0.0 titsintops.com # OK
 0.0.0.0 titsmature.com
 0.0.0.0 tittiporn.com
@@ -4471,6 +4466,7 @@
 0.0.0.0 toestube.com
 0.0.0.0 tokyoporn.asia
 0.0.0.0 toleaks.com # OK
+0.0.0.0 tone-rs.com # OK
 0.0.0.0 toobforyou.com
 0.0.0.0 toomadporn.pro
 0.0.0.0 toomics.com
@@ -4608,6 +4604,8 @@
 0.0.0.0 tubexxx.mobi
 0.0.0.0 tubezz.net
 0.0.0.0 tubyrose.com
+0.0.0.0 tumblrpics.com # OK
+0.0.0.0 tumblrviewer.com # OK
 0.0.0.0 tvtsescort.blogspot.com
 0.0.0.0 tw.cuteladypic.com
 0.0.0.0 tw.qgirlz.com
@@ -6547,6 +6545,7 @@
 0.0.0.0 x-hentaiporn.com
 0.0.0.0 x-twinkporn.com
 0.0.0.0 x.100pezd.net
+0.0.0.0 x1.h-chan.me # OK
 0.0.0.0 x3vid.com
 0.0.0.0 xadultswim.blogspot.com
 0.0.0.0 xalarabs.com
@@ -6652,6 +6651,7 @@
 0.0.0.0 xwebcams.net
 0.0.0.0 xwwx.com
 0.0.0.0 xwwx.com # OK
+0.0.0.0 xx-xgirls.icu # OK
 0.0.0.0 xx-xgirls.info
 0.0.0.0 xxcumz.com
 0.0.0.0 xxlhub.com
@@ -6793,6 +6793,7 @@
 0.0.0.0 y.hentaichan.live # OK
 0.0.0.0 yaboxxx.info
 0.0.0.0 yaibaa.blogspot.com
+0.0.0.0 yalmp.net # OK
 0.0.0.0 yamyhub.com
 0.0.0.0 yangporntube.com
 0.0.0.0 yangteraneh.blogspot.com
@@ -6808,6 +6809,7 @@
 0.0.0.0 yespornpleasexxx.com
 0.0.0.0 yhy.aff004.net
 0.0.0.0 yiffer.xyz # OK
+0.0.0.0 yiffverse.com # OK
 0.0.0.0 ymomy.blogspot.com
 0.0.0.0 yocuties.com
 0.0.0.0 yocuties.net
