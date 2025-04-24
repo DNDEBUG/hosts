@@ -835,7 +835,6 @@
 0.0.0.0 cdn02.bdsmlr.com
 0.0.0.0 cdn2.1xxx.pro # OK
 0.0.0.0 cdn77-vid-mp4.xvideos-cdn.com # OK
-0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 celeb-stalker.com # OK
 0.0.0.0 celebjared.net
 0.0.0.0 celebmatrix.com
