@@ -1,6 +1,7 @@
 0.0.0.0 x2.h-chan.me # OK
 0.0.0.0 naxter.net # OK
 0.0.0.0 rule34vault.com # OK
+0.0.0.0 pururin.me # OK
 0.0.0.0 hentai-acg.com # OK
 0.0.0.0 007gayboys.com
 0.0.0.0 0cili.com # OK
