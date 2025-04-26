@@ -1,12 +1,5 @@
-0.0.0.0 x2.h-chan.me # OK
-0.0.0.0 naxter.net # OK
-0.0.0.0 rule34vault.com # OK
-0.0.0.0 pururin.me # OK
-0.0.0.0 hentai-acg.com # OK
 0.0.0.0 007gayboys.com
 0.0.0.0 0cili.com # OK
-0.0.0.0 r34.channel # OK
-0.0.0.0 lenamo.art # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 100bigass.com # OK
 0.0.0.0 100boyself.com # OK
@@ -1293,7 +1286,6 @@
 0.0.0.0 cosplaytu.ru
 0.0.0.0 cosplayworld.net
 0.0.0.0 cosplayxxx.xyz # OK
-0.0.0.0 cosxuxi.club
 0.0.0.0 cosxuxi.club # OK
 0.0.0.0 couplegaydespyrenees.blogspot.com
 0.0.0.0 coveredincumtube.com
@@ -2108,7 +2100,6 @@
 0.0.0.0 hanimehentai.tv
 0.0.0.0 hanjob.info
 0.0.0.0 happy-porn.com
-0.0.0.0 happybooty.com
 0.0.0.0 happybooty.com # OK
 0.0.0.0 hard-teens-porn.pro
 0.0.0.0 hardcategories.com
@@ -2530,6 +2521,7 @@
 0.0.0.0 javgg.info
 0.0.0.0 javgg.me
 0.0.0.0 javgg.net
+0.0.0.0 javguru.biz # OK
 0.0.0.0 javguruhd.com
 0.0.0.0 javhd.com
 0.0.0.0 javhd247.net
@@ -2540,6 +2532,7 @@
 0.0.0.0 javhoc.com # OK
 0.0.0.0 javhub.com
 0.0.0.0 javitd.com # OK
+0.0.0.0 javkaren.com # OK
 0.0.0.0 javlemon.com
 0.0.0.0 javmodel.com
 0.0.0.0 javmvp.com # OK
@@ -2552,6 +2545,7 @@
 0.0.0.0 javpub.me
 0.0.0.0 javsean.com # OK
 0.0.0.0 javshujin.com
+0.0.0.0 javsubid.my # OK
 0.0.0.0 javsubindo.best # OK
 0.0.0.0 javtiful.com # OK
 0.0.0.0 javuncen.club
@@ -2753,7 +2747,7 @@
 0.0.0.0 lechetube.com
 0.0.0.0 ledaotv.com
 0.0.0.0 leenks.com
-0.0.0.0 leonxm.36.81.5472.0.0.0.0.0
+0.0.0.0 lenamo.art # OK
 0.0.0.0 lesbiancollective.com
 0.0.0.0 lesbianfucktory.com # OK
 0.0.0.0 lesbianhentai.online
@@ -3002,6 +2996,7 @@
 0.0.0.0 million-movies.com
 0.0.0.0 minisuka.tv
 0.0.0.0 mir-porno.one
+0.0.0.0 missav.ai # OK
 0.0.0.0 missav.ws # OK
 0.0.0.0 missingtoofff.com
 0.0.0.0 missuntamed.com
@@ -3135,6 +3130,7 @@
 0.0.0.0 naughty-exposures.net
 0.0.0.0 naughty-girls.psicoadic.org
 0.0.0.0 naughtysexporn.com
+0.0.0.0 naxter.net # OK
 0.0.0.0 neatxxxtube.com
 0.0.0.0 neba3d.blogspot.com
 0.0.0.0 negocioadulto.com
@@ -3729,6 +3725,7 @@
 0.0.0.0 qvideosxxx.com
 0.0.0.0 qwetube.com
 0.0.0.0 r18lu.com
+0.0.0.0 r34.channel # OK
 0.0.0.0 r34hub.com # OK
 0.0.0.0 r34porn.net
 0.0.0.0 rabbitsfun.com
@@ -3844,6 +3841,7 @@
 0.0.0.0 rule34comic.party
 0.0.0.0 rule34hentai.net # OK
 0.0.0.0 rule34r.com
+0.0.0.0 rule34vault.com # OK
 0.0.0.0 rule34video.party
 0.0.0.0 rule34yaoi.com
 0.0.0.0 russianpussy.net
@@ -4438,6 +4436,7 @@
 0.0.0.0 theworldofporncraft.com
 0.0.0.0 thexxx.asia
 0.0.0.0 theyiffgallery.com
+0.0.0.0 thisav2.com # OK
 0.0.0.0 thisxvideos.com
 0.0.0.0 thongbattle.com
 0.0.0.0 thotbay.org
@@ -4460,7 +4459,6 @@
 0.0.0.0 titology.com
 0.0.0.0 tits3.com # OK
 0.0.0.0 titshape.tumblr.com
-0.0.0.0 titsintops.com  # OK
 0.0.0.0 titsintops.com # OK
 0.0.0.0 titsmature.com
 0.0.0.0 tittiporn.com
@@ -5143,7 +5141,6 @@
 0.0.0.0 www.bustyangelique.com
 0.0.0.0 www.bustyarianna.com
 0.0.0.0 www.bustybaby.info
-0.0.0.0 www.bustybloom.com
 0.0.0.0 www.bustybloom.com # OK
 0.0.0.0 www.bustydanniashe.com
 0.0.0.0 www.bustydustystash.com
@@ -5570,7 +5567,7 @@
 0.0.0.0 www.hqtubeum.com
 0.0.0.0 www.hubdesi.com
 0.0.0.0 www.hugecockfuck.org
-0.0.0.0 www.hugetitslist.com/
+0.0.0.0 www.hugetitslist.com
 0.0.0.0 www.hydoll.com # OK
 0.0.0.0 www.hyperdreams.com
 0.0.0.0 www.iamxxx.com # OK
@@ -5611,7 +5608,13 @@
 0.0.0.0 www.japornpics.com
 0.0.0.0 www.japslit.com
 0.0.0.0 www.jav.ink
+0.0.0.0 www.javporn18.com # OK
+0.0.0.0 www.javpornhd.me # OK
 0.0.0.0 www.javshy.art
+0.0.0.0 www.javvideoporn.com # OK
+0.0.0.0 www.javxxx.me # OK
+0.0.0.0 www.javxxx.tv # OK
+0.0.0.0 www.javxxxporn.com # OK
 0.0.0.0 www.jayjademoon.com # OK
 0.0.0.0 www.jcomic.net # OK
 0.0.0.0 www.jdavsp.live
@@ -6005,6 +6008,7 @@
 0.0.0.0 www.pornhugetube.com
 0.0.0.0 www.pornin.net
 0.0.0.0 www.porninspector.com
+0.0.0.0 www.pornjav.tv # OK
 0.0.0.0 www.pornlibrary.org
 0.0.0.0 www.pornlift.com
 0.0.0.0 www.pornlinksworld.com
@@ -6552,6 +6556,7 @@
 0.0.0.0 x-twinkporn.com
 0.0.0.0 x.100pezd.net
 0.0.0.0 x1.h-chan.me # OK
+0.0.0.0 x2.h-chan.me # OK
 0.0.0.0 x3vid.com
 0.0.0.0 xadultswim.blogspot.com
 0.0.0.0 xalarabs.com
@@ -6655,7 +6660,6 @@
 0.0.0.0 xvidios.blog
 0.0.0.0 xvidzz.com
 0.0.0.0 xwebcams.net
-0.0.0.0 xwwx.com
 0.0.0.0 xwwx.com # OK
 0.0.0.0 xx-xgirls.icu # OK
 0.0.0.0 xx-xgirls.info
