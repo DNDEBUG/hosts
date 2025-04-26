@@ -1,4 +1,5 @@
 0.0.0.0 007gayboys.com
+0.0.0.0 ncdad.cc # OK
 0.0.0.0 0cili.com # OK
 0.0.0.0 0magnet.com # OK
 0.0.0.0 100bigass.com # OK
