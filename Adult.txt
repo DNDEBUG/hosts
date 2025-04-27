@@ -19,6 +19,7 @@
 0.0.0.0 1080p.av4.club # OK
 0.0.0.0 111webcams.com # OK
 0.0.0.0 121xnxx.com
+0.0.0.0 worldfreeads.top
 0.0.0.0 123gayporn.com
 0.0.0.0 141jj.com
 0.0.0.0 17rub.ru # OK
@@ -424,8 +425,7 @@
 0.0.0.0 atkgirls.blogspot.com
 0.0.0.0 attackoftheorcs.blogspot.com
 0.0.0.0 attackoftheorcs.blogspot.com.au
-0.0.0.0 audiodesires.com
-0.0.0.0 automattic.com
+0.0.0.0 audiodesires.com # OK
 0.0.0.0 av.av4.club
 0.0.0.0 av4.club
 0.0.0.0 avcity.blogspot.com
@@ -440,7 +440,6 @@
 0.0.0.0 avtik.com # OK
 0.0.0.0 avxxx.club
 0.0.0.0 aweptjmp.com
-0.0.0.0 awmtop.com
 0.0.0.0 awxxx.com
 0.0.0.0 axotup.ru
 0.0.0.0 ayase.wakarimasen.moe
@@ -501,13 +500,12 @@
 0.0.0.0 beachmodelx.blogspot.com
 0.0.0.0 beachvoyeurclips.com
 0.0.0.0 beast.chat
-0.0.0.0 beastbooru.com
 0.0.0.0 beasttracker.dog
 0.0.0.0 beautiful-bodies.com
 0.0.0.0 beautiful-girl-sex.com
 0.0.0.0 beautifulgirlsex.com
 0.0.0.0 becomingamilf.blogspot.com
-0.0.0.0 bedpage.cc
+0.0.0.0 bedpage.cc # OK
 0.0.0.0 beeg-movies.net
 0.0.0.0 beeg-teens.com
 0.0.0.0 beeg-videos.net
