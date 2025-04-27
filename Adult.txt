@@ -220,7 +220,6 @@
 0.0.0.0 aitoda.blogspot.com
 0.0.0.0 alfahunter.blogspot.com.br
 0.0.0.0 alice-ai.com # OK
-0.0.0.0 alimentola.info
 0.0.0.0 alixlovell.blogspot.com
 0.0.0.0 all-4porn.com
 0.0.0.0 all-adult-blogs.com
