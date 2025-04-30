@@ -2,6 +2,7 @@
 0.0.0.0 acidcow.com
 0.0.0.0 www.listal.com
 0.0.0.0 instamixglobal.com
+0.0.0.0 www.soyjak.st
 0.0.0.0 izismile.com
 0.0.0.0 zensiert.net
 0.0.0.0 sexy.to
