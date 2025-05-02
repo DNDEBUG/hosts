@@ -1,6 +1,8 @@
 0.0.0.0 007gayboys.com
 0.0.0.0 ashleyreed95.com # OK
+0.0.0.0 rule34hub.com # OK
 0.0.0.0 rule34vault.com # OK
+0.0.0.0 rule34-videos.com # OK
 0.0.0.0 rule34vault.com # OK
 0.0.0.0 futavid.com # OK
 0.0.0.0 pornworks.com # OK
