@@ -3,3 +3,4 @@
 0.0.0.0 br.betano.com
 0.0.0.0 betano.com
 0.0.0.0 superbet.bet.br
+0.0.0.0 egamersworld.com
