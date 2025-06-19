@@ -1,5 +1,6 @@
 0.0.0.0 007gayboys.com
 0.0.0.0 ashleyreed95.com # OK
+0.0.0.0 rule34.si # OK
 0.0.0.0 hdoujin.org # OK
 0.0.0.0 hoshino.one # OK
 0.0.0.0 shupogaki.moe # OK
