@@ -1,5 +1,9 @@
 0.0.0.0 007gayboys.com
 0.0.0.0 www.amkingdom.com # OK
+0.0.0.0 www.4khd.com # OK
+0.0.0.0 bunkr.ci # OK
+0.0.0.0 电子魅魔.com # OK
+0.0.0.0 pixiv.app # OK
 0.0.0.0 hentaixnx.com # OK
 0.0.0.0 tokyomotion.com # OK
 0.0.0.0 ashleyreed95.com # OK
