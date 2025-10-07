@@ -21,3 +21,4 @@
 0.0.0.0 thechive.com
 0.0.0.0 modeland.ru
 0.0.0.0 shazoo.ru
+0.0.0.0 joyreactor.com
