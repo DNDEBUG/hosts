@@ -1,3 +1,5 @@
+0.0.0.0 kemono.cr
+0.0.0.0 coomer.st
 0.0.0.0 007gayboys.com
 0.0.0.0 www.amkingdom.com # OK
 0.0.0.0 www.4khd.com # OK
