@@ -2,6 +2,7 @@
 0.0.0.0 coomer.st
 0.0.0.0 007gayboys.com
 0.0.0.0 www.amkingdom.com # OK
+0.0.0.0 www.blissgirlz.com
 0.0.0.0 www.4khd.com # OK
 0.0.0.0 bunkr.ci # OK
 0.0.0.0 电子魅魔.com # OK
