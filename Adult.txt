@@ -5345,7 +5345,6 @@
 0.0.0.0 www.desktopgirls.com # OK
 0.0.0.0 www.desktopstars.com # OK
 0.0.0.0 www.detomasso.net
-0.0.0.0 www.deviantart.com
 0.0.0.0 www.diamondgirls.co.uk
 0.0.0.0 www.dianamovies.com
 0.0.0.0 www.dianapost.com
