@@ -13,6 +13,4 @@ The Adult list is being edited constantly, it might have wrong stuff in it, **BE
 
 **gore.txt**: Sites with gore material
 
-**removed.txt**: sites that have been removed from some list for some reason, or sites that don't work anymore, but might come back some day
-
 **useless.txt**: Irrelevant websites or designed to be a waste of time
