@@ -1,6 +1,7 @@
 0.0.0.0 www.juicychat.ai
 0.0.0.0 vrlatina.com
 0.0.0.0 peepshow.com
+0.0.0.0 pawchive.st
 0.0.0.0 craveu.ai
 0.0.0.0 simpcity.cr
 0.0.0.0 www.mrlsexdoll.com
