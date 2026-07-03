@@ -1,4 +1,5 @@
 0.0.0.0 www.juicychat.ai
+0.0.0.0 vrlatina.com
 0.0.0.0 peepshow.com
 0.0.0.0 craveu.ai
 0.0.0.0 simpcity.cr
