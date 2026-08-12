@@ -1,4 +1,5 @@
 0.0.0.0 www.juicychat.ai
+0.0.0.0 www.aicollective.store
 0.0.0.0 vrlatina.com
 0.0.0.0 nice-a.jp
 0.0.0.0 htdoll.com
